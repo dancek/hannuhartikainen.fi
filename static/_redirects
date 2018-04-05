@@ -1,0 +1,5 @@
+# Redirects for Netlify
+
+# http -> https
+http://hannuhartikainen.fi/* https://hannuhartikainen.fi/:splat 301!
+http://hannuhartikainen.fi https://hannuhartikainen.fi 301!
