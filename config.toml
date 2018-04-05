@@ -86,4 +86,4 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://github.com/dancek/hhfi-hugo"
+url = "https://github.com/dancek/hannuhartikainen.fi"
