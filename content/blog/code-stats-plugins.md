@@ -1,6 +1,7 @@
 ---
 title: "Code::Stats plugins for Zsh and Vim"
 date: 2018-04-05T14:30:34+03:00
+tags: ["FLOSS", "Code::Stats", "vim", "zsh"]
 ---
 
 *To get this blog started, I'm writing about some code I've put online. The most interesting are probably the two Code::Stats plugins I've created.*
