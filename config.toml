@@ -74,6 +74,14 @@ twitter = ""
 telegram = ""
 google_scholar = ""
 
+[params.comments]
+enable = true
+
+[params.comments.utterances]
+enable = true
+repo = "dancek/hannuhartikainen.fi"
+issueTerm = "pathname"
+
 [taxonomies]
 category = "categories"
 series = "series"
