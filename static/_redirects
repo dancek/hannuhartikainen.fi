@@ -3,3 +3,7 @@
 # http -> https
 http://hannuhartikainen.fi/* https://hannuhartikainen.fi/:splat 301!
 http://hannuhartikainen.fi https://hannuhartikainen.fi 301!
+
+# alternate domains
+https://hrtk.in/* https://hannuhartikainen.fi/:splat 301!
+http://hrtk.in/* https://hannuhartikainen.fi/:splat 301!
