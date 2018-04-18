@@ -12,6 +12,8 @@ Googling for installation instructions was a bit difficult as I knew very little
 
 ## Basic installation
 
+**NOTE: This installation method is not supported by Arch Linux. Please don't blame them if this doesn't work.**
+
 Someone might come here wishing for instructions on how to get Arch on WSL up and running, so here's what I did:
 
 1. [Enable WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10), ie. run the following in an administrator PowerShell:
