@@ -103,9 +103,9 @@ There, all set up and ready to go.
 
 This is probably the first time I felt like I can get basic day-to-day stuff done easily on Windows. Clone a git repo, `rg` for something, modify a bit with Vim, branch, commit, push, done. Easy.
 
-I've dabbled with Cygwin a long time ago, then MSYS, then Git Bash. They were always kludgy. WSL seems to mostly work alright. I realize there are things like the standard `fakeroot` not working, but basic stuff works OK. Not brilliantly, as running commands seems quite slow compared to what I'm used to on Linux and MacOS machines. Probably because my shell config is on the complicated side and syscalls on WSL are expensive.
+I've dabbled with Cygwin a long time ago, then MSYS, then Git Bash. They were always kludgy. WSL seems to mostly work alright. I realize there are things like the standard `fakeroot` not working, but basic stuff works OK. Not brilliantly, as running commands seems quite slow compared to what I'm used to on Linux and MacOS machines. Probably because my shell config is on the complicated side[^footnote:1] and syscalls on WSL are expensive.
 
-There are some issues. For example, I wrote this post on Windows using native Visual Studio Code, while running a Hugo server in WSL. The Hugo process didn't notice when the files were changed. It did notice changes made in Vim, so it looks like the issue is with Linux/Windows interop. I expect a lot of similar minor (but annoying) problems.
+There are some issues. For example, I wrote this post on Windows using native Visual Studio Code, while running a Hugo server in WSL. The Hugo process didn't notice when the files were changed.[^footnote:1] It did notice changes made in Vim, so it looks like the issue is with Linux/Windows interop. I expect a lot of similar minor (but annoying) problems.
 
 Now that I realize it's not horribly complicated, I wonder if I should try installing NixOS or GuixSD. Maybe if I actually use this a lot.
 
@@ -114,3 +114,5 @@ Now that I realize it's not horribly complicated, I wonder if I should try insta
 A nice unintended side effect of this post was documenting some things I like to do when setting up an OS. I like my (outdated) NixOS configs for a similar reason, but of course you don't mention SSH and API keys there, etc.
 
 This is another blog post that took some time to write and is kind of meant to be helpful for other people. And it's still quite probable that not a single person will ever read this post and follow the steps. I've wondered what's the point when I've seen similar blog posts, but now I somewhat understand: if you want to be able to write about technical stuff, you gotta do it sometime. Sure, there's documentation at work, but I'm learning something trying to write informally about stuff I've done. Still, I probably won't be writing many posts like this one unless they really turn out to be useful to someone.
+
+[^footnote:1]: **EDIT 2018-04-22:** The shell became much more responsive after I disabled git info in my prompt. Also the issue about Hugo not noticing updates was because I was using it wrong. Turns out opening the files inside the Linux rootfs using a Windows app was a bad idea to begin with. When I kept the files in a normal Windows directory and accessed them through `/mnt/c/...`, everything worked as expected.
