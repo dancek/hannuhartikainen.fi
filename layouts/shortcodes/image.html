@@ -1,0 +1,25 @@
+{{ $original := .Page.Resources.GetMatch (.Get 0) }}
+{{ $lg := $original.Resize "1400x q60" }}
+{{ $md := $original.Resize "700x" }}
+{{ $sm := $original.Resize "440x" }}
+
+<figure>
+    <a href="{{ $original.RelPermalink }}">
+        <img src="{{ $md.RelPermalink }}"
+            width="{{ $md.Width }}"
+            height="{{ $md.Height }}"
+            srcset="{{ $lg.RelPermalink }} {{ $lg.Width }}w,
+                    {{ $md.RelPermalink }} {{ $md.Width }}w,
+                    {{ $sm.RelPermalink }} {{ $sm.Width }}w"
+            sizes="(min-width: 740px) 700px,
+                   calc(100vw - 40px)"
+            alt="{{ $original.Title }}"
+            title="{{ $original.Title }}"
+            style="display: block; background-color: #ddd;" />
+    </a>
+    {{ if $original.Title | ne $original.Name }}
+    <div style="padding: 0.5em; border: 1px solid #999; border-top: none; border-bottom-left-radius: 8px; border-bottom-right-radius: 8px;">
+        {{ $original.Title }}
+    </div>
+    {{ end }}
+</figure>
