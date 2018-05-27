@@ -10,6 +10,7 @@ resources:
 ---
 
 **I was upgrading an old laptop with two 4GB PC3-10600 memory modules and it turned out PC3-8500 was absolutely needed instead. What's a man to do? Of course rewrite the EEPROM to re-bin the memory module as a slower model!**
+<!--more-->
 
 {{< image "images/work-area.jpg" >}}
 
