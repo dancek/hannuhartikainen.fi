@@ -1,7 +1,7 @@
 ---
 title: "Decentralize – Website setup is easy"
 date: 2018-04-10T08:44:25+03:00
-tags: ["hugo", "netlify", "web"]
+tags: ["hugo", "netlify", "web", "decentralization"]
 ---
 
 *The web has become very centralized, with people mostly creating content in social media. While this enables publishing without any technical skills, there are many downsides. Meanwhile, creating and publishing your own website has become easier than ever. In this post, I'll show an easy way to create a modern static site for free.*
