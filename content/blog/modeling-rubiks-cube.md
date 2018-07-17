@@ -1,15 +1,15 @@
 ---
 title: "Modeling a Rubik's Cube"
-date: 2018-07-16T13:00:02+03:00
-draft: true
+date: 2018-07-17T13:00:02+03:00
+tags: ["Rubik's Cube", "clojure"]
 ---
 
-There are a couple of programming problems I've thought about since I was a teen, but never made a real effort to solve. One of them is solving the Rubik's Cube.
+There are a couple of programming problems I've thought about since I was a teen, but never made a real effort to solve. One of them is a solver the [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube).
 
 A couple of weeks ago my kids got a 2x2x2 cube each as a present, and after solving it manually I decided it's probably easy enough to solve in software too. So this time I at least started to work on it.
 <!-- more -->
 
-I haven't yet worked on a solver, but I found just modeling the cube an interesting problem. There are plenty of possible approaches. Some are probably documented elsewhere and of course I could look at what existing open source solvers do, but I made it a point to first find a workable approach on my own.
+I haven't yet worked on the solver logic, but I found just modeling the cube an interesting problem. There are plenty of possible approaches. Some are probably documented elsewhere and of course I could look at what existing open source solvers do, but I made it a point to first find a workable approach on my own.
 
 Even though I'm planning to solve a 2x2 cube first, I'm already thinking of how the standard 3x3 cube could be modeled. I'll be mostly discussing 3x3 here.
 
@@ -23,9 +23,9 @@ But you're much better off when you consider the cube has two types of moving pi
 
 ## Minimizing redundancy
 
-The 3x3 cube has 4.3e19 permutations (according to Wikipedia). That's 66 bits of information. A reasonable representation probably uses some more than that, but that's something to keep in mind.
+The 3x3 cube has 4.3e19 permutations (according to Wikipedia). That's 66 bits of information. A reasonable representation uses more than that but it's something to keep in mind.
 
-A simple model is to consider that corners can be only in corner positions and edges in edge positions, and each corner position has three possible orientations while edge positions have two. So a corner can be in 8 different places in 3 orientations, ie. 24 possibilities. An edge has 12 possible positions with 2 orientations so it also has 24 possibilities. We could basically use 5 bits per piece, for 20 pieces, and get a representation of the whole cube in 100 bits. That's quite a bit more than 66 bits, but considering we already waste 5 bits for 24 alternatives and not all cube positions are possible, that's quite efficient.
+A simple model is to consider that corners can be only in corner positions and edges in edge positions, and each corner position has three possible orientations while edge positions have two. So a corner can be in 8 different places in 3 orientations, ie. 24 possibilities. An edge has 12 possible positions with 2 orientations so it also has 24 possibilities. We could basically use 5 bits per piece, for 20 pieces, and get a representation of the whole cube in 100 bits. That's more than 66 bits, but considering we already waste 5 bits for 24 alternatives and not all cube positions are possible, that's quite efficient.
 
 Such a simple model sounds nice, but after playing around with the idea for a bit I was disappointed. It's easy to just number the positions, but what's a smart way to number the orientations? Consider you use a couple of twists to get a corner piece to the opposite corner of the cube. What's its orientation? Which set of twists keeps orientation? It seems to me that using an orientation-enumerating system requires you to basically have a lookup table for rotations.[^1] That's not beautiful enough for me. Please prove me wrong, though.
 
