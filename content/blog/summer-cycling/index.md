@@ -1,6 +1,7 @@
 ---
 title: "Summer cycling season 2018 is here"
 date: 2018-05-02T08:00:00+03:00
+tags: ['maintenance']
 resources:
 - src: images/upside-down-bikes.jpg
   title: Tire change in progress. Cyclocross in front; city bike and singlespeed in the back.
