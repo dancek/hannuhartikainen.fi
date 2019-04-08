@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dancek
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hannuhartikainen.fi
+  * I am dancek (https://keybase.io/dancek) on keybase.
+  * I have a public key ASDl0UuRF1pzAT5shSeoY0qKa2Cq4ZzGJU5qnmIh1JJhyAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e5d14b91175a73013e6c8527a8634a8a6b60aae19cc6254e6a9e6221d49261c80a",
+      "host": "keybase.io",
+      "kid": "0120e5d14b91175a73013e6c8527a8634a8a6b60aae19cc6254e6a9e6221d49261c80a",
+      "uid": "ed78c9449619257423b8353cdd0e3519",
+      "username": "dancek"
+    },
+    "merkle_root": {
+      "ctime": 1554709478,
+      "hash": "ff36e6e9505f3fab528e533faf441814ea8d4df4fff14e89afb0565395106c2ea84eb04000b3a157037678947f7abb4564375a40501047d94bd081f52f78aed3",
+      "hash_meta": "124a7e7d7569d2683197bd4f524e35863431c3fb359cba1f9e8185ade8c9bf53",
+      "seqno": 5115939
+    },
+    "service": {
+      "entropy": "PjOoUTQoVDwcU1uPm2xqAtOn",
+      "hostname": "hannuhartikainen.fi",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1554709490,
+  "expire_in": 504576000,
+  "prev": "c7c6491e2726d51bf6e7b4110bd8d345b2d42ee0284384f3e47588e06b4ce900",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5dFLkRdacwE+bIUnqGNKimtgquGcxiVOap5iIdSSYcgKp3BheWxvYWTESpcCCMQgx8ZJHicm1Rv257QRC9jTRbLULuAoQ4Tz5HWI4GtM6QDEINFK5VKgmm5/6gCy8KtWVZbecwVSrGLD1ikjujZgWkr5AgHCo3NpZ8RALsSSu6UZzNemRn1fz77hUlEBfb9Re1uQ66vUzKzMNDNpcnVVkb6kJsLNiavNUdzgqZGLjXDcm9LTRvjcPUnKAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPptepS61VD5WgV0gXYVrpiIkXEQHV9LXbMfoEk1CDsNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dancek
+
+==================================================================

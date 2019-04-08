@@ -29,6 +29,7 @@ In alphabetical order.
 1. [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware/commits?author=dancek)
 1. [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/commits?author=dancek)
 1. [odota/core](https://github.com/odota/core/commits?author=dancek)
+1. [openstack-infra/git-review](https://review.openstack.org/#/q/project:openstack-infra/git-review+author:%22Hannu+Hartikainen%22)
 1. [phoenix-framework/phoenix](https://github.com/phoenixframework/phoenix/commits?author=dancek)
 1. [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl/commit/e03532a23362e097fa286e4dda64d3425c6bc8bf)
 1. [sjappig/velo-backend](https://github.com/sjappig/velo-backend/commits?author=dancek)
