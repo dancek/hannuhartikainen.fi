@@ -16,6 +16,7 @@ tags:
 
 In alphabetical order.
 
+1. [anders/pwgen](https://github.com/anders/pwgen/commits?author=dancek)
 1. [bayespy/bayespy](https://github.com/bayespy/bayespy/commits?author=dancek)
 1. [code-stats/code-stats](https://gitlab.com/code-stats/code-stats/commit/cd7b716c4d3aa7ba08133988e5e4acc041be3cba)
 1. [glowing-bear/glowing-bear](https://github.com/glowing-bear/glowing-bear/commits?author=dancek)
