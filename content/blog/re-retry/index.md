@@ -11,6 +11,7 @@ I'm a big fan of [RETRY](https://en.wikipedia.org/wiki/Retry), a 2014 mobile gam
 <!--more-->
 
 <video controls loop
+  title="Playing RETRY, level B2: Impassable Ruins (almost passing the impassable section!)"
   width="560"
   height="320"
   src="retry.mp4"
@@ -46,8 +47,8 @@ I'm not expecting many people (if any) to actually go through with building a mo
 
 ## Acknowledgements
 
-I'm hugely grateful to Rovio for publishing RETRY and all the people who made it. Thank you!
+I'm hugely grateful to Rovio for publishing RETRY and to all the people who made it. Thank you!
 
-If you found this blog post helpful or start playing RETRY again, please support Rovio by buying content for their games. Or buy the [original game soundtrack](https://play.google.com/store/music/album/Ted_Striker_Retry_Original_Game_Soundtrack?id=B4qslltpinblm5kfodujwhaatai). I did, even though I could access it through a streaming service for free. Hoping someone notices that in analytics: still making money from a game discontinued in 2017.
+If you found this blog post helpful or start playing RETRY again, please support Rovio by buying content for their games. Or buy the [original game soundtrack](https://play.google.com/store/music/album/Ted_Striker_Retry_Original_Game_Soundtrack?id=B4qslltpinblm5kfodujwhaatai). I did, even though I could access it through a streaming service for free. Hoping someone notices that in analytics: still making money from a game discontinued in 2017!
 
 [^1]: One tool of note is [dnSpy](https://github.com/0xd4d/dnSpy). It's excellent if you're on Windows and just want to patch a binary. But I like text-based formats and git history and platform independence and such, so disassembling and editing CIL was more my cup of tea.
