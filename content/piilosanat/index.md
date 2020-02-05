@@ -34,10 +34,11 @@ Laadintatyökalussani oli ongelmia epäneliömäisten ruudukoiden kanssa. Tulipa
 
 ## Sovelluksia
 
-.puz-tiedostojen ratkomiseen hyviä sovelluksia ovat
+.puz-tiedostojen ratkomiseen toimivia sovelluksia ovat
 
  - Android: [alphacross](https://play.google.com/store/apps/details?id=org.akop.crosswords), jolla pääsee tekemään myös jenkkilehtien ristikoita ilmaiseksi. Kannattaa laittaa asetuksista päälle sanojen pituus vihjeen perässä. Sovellus osaa tarkistaa ratkaisun.
  - Linux/macOS/Windows: [cursewords](https://github.com/thisisparker/cursewords). Toimii terminaalissa, vaatii Python 3:n.
+ - Web: [HTML5 Across Lite Reader](http://derekslager.com/puz/) ([github](https://github.com/derekslager/xwordhtml)). Ei enää moderni, mutta toimii. Olisi kätevää upottaa joku vastaava suoraan tälle sivulle, mutta en ole nähnyt suoraan soveltuvaa.
 
 ## Ratkomisesta
 
