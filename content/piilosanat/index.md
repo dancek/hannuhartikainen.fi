@@ -3,7 +3,7 @@ title: "Piilosanat"
 date: 2020-01-23T20:34:46+02:00
 menu: main
 weight: -40
-date: "2020-01-23"
+date: "2020-02-05"
 tags:
 - cryptic
 - crossword
@@ -16,18 +16,37 @@ tags:
 
 ## Piilosanatehtävät
 
-Palaute tehtävistä on tervetullutta, ja saattaa vaikuttaa intooni laatia lisää.
+Palaute tehtävistä on tervetullutta. Toistaiseksi tavoitteenani on ollut tehdä tehtävistä sellaisia, ettei aiempaa kokemusta piilosanoista tai ristikoista sinänsä tarvitse, kunhan tietää säännöt.
 
-* Piilosana 2020-01-23 [.puz](piilosana_2020-01-23.puz) / [.pdf](piilosana_2020-01-23.pdf)
+### Piilosana 2020-01-23
 
-.puz-tiedostojen ratkomiseen hyvä sovellus on [alphacross (Android)](https://play.google.com/store/apps/details?id=org.akop.crosswords), jolla pääsee tekemään myös jenkkilehtien ristikoita ilmaiseksi. Kannattaa laittaa asetuksista päälle sanojen pituus vihjeen perässä. Sovellus osaa tarkistaa ratkaisun.
+[.puz](piilosana_2020-01-23.puz) / [.pdf](piilosana_2020-01-23.pdf)
+
+Ensimmäinen laatimani piilosana. Otin mielestäni mahdollisimman esteettisen klassisen 13x13-ruudukon, ja yritin valita kiinnostavia ratkaisusanoja. Vihjeissä pyrin kohtuullisuuteen, mutta ujutin yhden jälkikäteen ajatellen kohtuuttoman vihjeen/sanan mukaan. Jos jumitut, lue tämä sivu ajatuksella.
+
+### Piilosana 2020-02-04
+
+[.puz](piilosana_2020-02-04.puz) / [.pdf](piilosana_2020-02-04.pdf)
+
+Pohdiskelin voisiko piilosanaa tehdä tavallisella ristikkoruudukolla, jolloin olisi helpompaa saada ratkaisuja ristikkäisten sanojen avulla. Kokeilin tällä pikkutehtävällä (8x5-ruudukko). Laatiminen oli aika paljon vaikeampaa, ja jouduin ottamaan taivutusmuotoja mukaan saadakseni muuten kivoja sanoja. Oletan tehtävän olevan ruudukon puolesta tavallista helpompi, joten osa vihjeistä on vaikeita.
+
+Laadintatyökalussani oli ongelmia epäneliömäisten ruudukoiden kanssa. Tulipahan korjattua ne samalla.
+
+## Sovelluksia
+
+.puz-tiedostojen ratkomiseen hyviä sovelluksia ovat
+
+ - Android: [alphacross](https://play.google.com/store/apps/details?id=org.akop.crosswords), jolla pääsee tekemään myös jenkkilehtien ristikoita ilmaiseksi. Kannattaa laittaa asetuksista päälle sanojen pituus vihjeen perässä. Sovellus osaa tarkistaa ratkaisun.
+ - Linux/macOS/Windows: [cursewords](https://github.com/thisisparker/cursewords). Toimii terminaalissa, vaatii Python 3:n.
+
+## Ratkomisesta
 
 Mikäli piilosanojen ratkominen ei ole tuttua, kannattaa ensin tutustua [Sanarisin julkaisemaan ohjeeseen](https://www.sanaristikot.net/artikkelit/?p1=piilosan). Sanarisin julkaisemat piilosanatehtävät saattavat myös sopia paremmin aloittamiseen. Paras suomalainen lehti piilosanatehtävien kannalta on [Punainen Pelikaani](http://pelikaaniristikot.fi/), jossa on kolme tehtävää per numero. Tehtäviä löytyy myös mm. Suomen Kuvalehdestä.
 
-## Työkalut
+## Julkaisemani työkalut
 
 [**ristilaatija**](http://dancek.github.io/ristilaatija/) soveltuu piilosanatehtävien ja myös muiden ristikoiden laadintaan. Se pohjautuu [Phil](http://www.keiranking.com/phil/)-laatimeen, jonka tekijä on laatinut ristikoita New York Timesiin. Oma panokseni on suomen kielen tuki sekä liuta bugikorjauksia ja parannuksia. Käyttöliittymä on englanniksi, mutta tuotetut pdf:t sisältävät otsikot suomeksi ja puz-tiedostot eivät ota kantaa kieleen.
 
-[**anagwasm**](https://dancek.github.io/anagwasm/) on selaimessa toimiva anagrammityökalu.
+[**anagwasm**](https://dancek.github.io/anagwasm/) on selaimessa toimiva anagrammityökalu. Sekin perustuu muiden tekemiin työkaluihin ([ufag-rs](https://github.com/Detegr/ufag-rs), [ufag](https://github.com/sliedes/ufag)).
 
-Molemmat työkalut sisältävät Kotuksen julkaiseman suomen kielen sanalistan, ja olen niitä menestyksekkäästi itse käyttänyt. Pull requestit ja toistettavat bugiraportit ovat tervetulleita, mutta kehitysideoita en kaipaa. Niitä on omastakin takaa, mutta motivaatio rajoittaa.
+Molemmat työkalut sisältävät Kotuksen julkaiseman suomen kielen sanalistan, ja olen niitä menestyksekkäästi itse käyttänyt. Pull requestit ja toistettavat bugiraportit ovat tervetulleita, mutta kehitysideoita en kaipaa.
