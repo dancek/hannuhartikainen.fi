@@ -1,21 +1,27 @@
 ---
 title: "re-RETRY: patching a Unity-based Android game"
 date: 2019-09-10T20:30:00+03:00
+summary: "Announcing re-RETRY, a modded version of RETRY (that you have to build yourself)."
 tags: ["RETRY", "reverse engineering", "Android"]
+---
+
+**UPDATE 2020-02-12:** RETRY was re-published in January 2020 as [
+Fail Plane - 2D Arcade Fun](https://play.google.com/store/apps/details?id=com.darkmatter.retry). Please go download it and buy "remove ads" for 3,99€!
+
 ---
 
 *Announcing [re-RETRY](https://github.com/dancek/re-retry), a modded version of RETRY (that you have to build yourself).*
 
 I'm a big fan of [RETRY](https://en.wikipedia.org/wiki/Retry), a 2014 mobile game by [Rovio](http://www.rovio.com/) / LVL11. In fact, I consider it the best mobile game I've seen to date. Unfortunately it was discontinued in 2017 and shortly after stopped working.
 
-<!--more-->
-
+{{< html >}}
 <video controls loop
   title="Playing RETRY, level B2: Impassable Ruins (almost passing the impassable section!)"
   width="560"
   height="320"
   src="retry.mp4"
-  style="width: 100%; height: auto;">
+  style="width: 100%; height: auto;"></video>
+{{< /html >}}
 
 I kept the APK around because I hoped it would work again one day. I even copied it over when I switched phones, but it still didn't work. Last week I noticed it had started working again, just throwing some Google Play Games related error. I thought it'd be nice to get rid of the error message.
 
