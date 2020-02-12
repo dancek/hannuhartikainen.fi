@@ -14,6 +14,10 @@ tags:
 
 <!--more-->
 
+## Piilosanojen ratkomisesta
+
+[Näin piilosanoja ratkotaan]({{< ref "ratkotaan" >}})
+
 ## Piilosanatehtävät
 
 Palaute tehtävistä on tervetullutta. Toistaiseksi tavoitteenani on ollut tehdä tehtävistä sellaisia, ettei aiempaa kokemusta piilosanoista tai ristikoista sinänsä tarvitse, kunhan tietää säännöt.
@@ -31,10 +35,6 @@ Ensimmäinen laatimani piilosana. Otin mielestäni mahdollisimman esteettisen kl
 Pohdiskelin voisiko piilosanaa tehdä tavallisella ristikkoruudukolla, jolloin olisi helpompaa saada ratkaisuja ristikkäisten sanojen avulla. Kokeilin tällä pikkutehtävällä (8x5-ruudukko). Laatiminen oli aika paljon vaikeampaa, ja jouduin ottamaan taivutusmuotoja mukaan saadakseni muuten kivoja sanoja. Oletan tehtävän olevan ruudukon puolesta tavallista helpompi, joten osa vihjeistä on vaikeita.
 
 Laadintatyökalussani oli ongelmia epäneliömäisten ruudukoiden kanssa. Tulipahan korjattua ne samalla.
-
-## Ratkomisesta
-
-Mikäli piilosanojen ratkominen ei ole tuttua, kannattaa ensin tutustua [Sanarisin julkaisemaan ohjeeseen](https://www.sanaristikot.net/artikkelit/?p1=piilosan). Sanarisin julkaisemat piilosanatehtävät saattavat myös sopia paremmin aloittamiseen. Paras suomalainen lehti piilosanatehtävien kannalta on [Punainen Pelikaani](http://pelikaaniristikot.fi/), jossa on kolme tehtävää per numero. Tehtäviä löytyy myös mm. Suomen Kuvalehdestä.
 
 ## Julkaisemani työkalut
 

@@ -1,0 +1,47 @@
+<style>
+.hints li[hide] {
+  visibility: hidden;
+}
+.hints .show-hint {
+  margin-bottom: 1em;
+}
+</style>
+
+<div class="hints">
+  {{.Inner | markdownify}}
+
+  <button onclick="showAllHints()">Näytä kaikki ratkaisut</button>
+</div>
+
+<script>
+Array.from(document.querySelectorAll(".hints li")).map(e => e.setAttribute("hide", ""))
+
+for (const ul of document.querySelectorAll(".hints > ul")) {
+  let btn = document.createElement("button")
+  btn.setAttribute("class", "show-hint")
+  btn.appendChild(document.createTextNode("Näytä vinkki"))
+  btn.addEventListener("click", () => showNextHint(ul))
+  ul.parentNode.insertBefore(btn, ul)
+}
+
+function showNextHint(el) {
+  let li;
+  if (el) {
+    li = el.querySelector("li[hide]")
+  } else {
+    li = document.querySelector(".hints li[hide]")
+  }
+
+  if (li) {
+    li.removeAttribute("hide")
+  }
+}
+
+function showAllHints() {
+  Array.from(document.querySelectorAll(".hints li")).map(e => e.removeAttribute("hide"))
+}
+
+document.addEventListener('keydown', function(e) {
+  if (e.keyCode === 13) showNextHint();
+})
+</script>
