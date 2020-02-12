@@ -4,10 +4,10 @@ date: 2020-01-23T20:34:46+02:00
 menu: main
 weight: -40
 date: "2020-02-05"
+lang: fi
 tags:
-- cryptic
-- crossword
-- Finnish
+- piilosana
+
 ---
 
 **Briefly in English:** This page contains Finnish cryptic crosswords I've constructed and tools useful for working with crosswords in Finnish.
@@ -32,14 +32,6 @@ Pohdiskelin voisiko piilosanaa tehdä tavallisella ristikkoruudukolla, jolloin o
 
 Laadintatyökalussani oli ongelmia epäneliömäisten ruudukoiden kanssa. Tulipahan korjattua ne samalla.
 
-## Sovelluksia
-
-.puz-tiedostojen ratkomiseen toimivia sovelluksia ovat
-
- - Android: [alphacross](https://play.google.com/store/apps/details?id=org.akop.crosswords), jolla pääsee tekemään myös jenkkilehtien ristikoita ilmaiseksi. Kannattaa laittaa asetuksista päälle sanojen pituus vihjeen perässä. Sovellus osaa tarkistaa ratkaisun.
- - Linux/macOS/Windows: [cursewords](https://github.com/thisisparker/cursewords). Toimii terminaalissa, vaatii Python 3:n.
- - Web: [HTML5 Across Lite Reader](http://derekslager.com/puz/) ([github](https://github.com/derekslager/xwordhtml)). Ei enää moderni, mutta toimii. Olisi kätevää upottaa joku vastaava suoraan tälle sivulle, mutta en ole nähnyt suoraan soveltuvaa.
-
 ## Ratkomisesta
 
 Mikäli piilosanojen ratkominen ei ole tuttua, kannattaa ensin tutustua [Sanarisin julkaisemaan ohjeeseen](https://www.sanaristikot.net/artikkelit/?p1=piilosan). Sanarisin julkaisemat piilosanatehtävät saattavat myös sopia paremmin aloittamiseen. Paras suomalainen lehti piilosanatehtävien kannalta on [Punainen Pelikaani](http://pelikaaniristikot.fi/), jossa on kolme tehtävää per numero. Tehtäviä löytyy myös mm. Suomen Kuvalehdestä.
@@ -51,3 +43,17 @@ Mikäli piilosanojen ratkominen ei ole tuttua, kannattaa ensin tutustua [Sanaris
 [**anagwasm**](https://dancek.github.io/anagwasm/) on selaimessa toimiva anagrammityökalu. Sekin perustuu muiden tekemiin työkaluihin ([ufag-rs](https://github.com/Detegr/ufag-rs), [ufag](https://github.com/sliedes/ufag)).
 
 Molemmat työkalut sisältävät Kotuksen julkaiseman suomen kielen sanalistan, ja olen niitä menestyksekkäästi itse käyttänyt. Pull requestit ja toistettavat bugiraportit ovat tervetulleita, mutta kehitysideoita en kaipaa.
+
+## Linkkejä
+
+Vapaasti ladattavia piilosanoja muualla:
+
+- [Sanojen sommittelua -blogi](https://sanojensommittelua.net/). 28 kappaletta Pertti Oskalan laatimia piilosanoja pdf-muodossa.
+- [Ristikkoarkisto](http://sanaristikot.net/ristikot/?p=arkisto). 29 Sanaris Oy:n julkaisemaa piilosanaa. Mahdollisuus ratkaista selaimessa.
+
+.puz-tiedostojen ratkomiseen toimivia sovelluksia:
+
+ - Android: [alphacross](https://play.google.com/store/apps/details?id=org.akop.crosswords), jolla pääsee tekemään myös jenkkilehtien ristikoita ilmaiseksi. Kannattaa laittaa asetuksista päälle sanojen pituus vihjeen perässä. Sovellus osaa tarkistaa ratkaisun.
+ - Linux/macOS/Windows: [cursewords](https://github.com/thisisparker/cursewords). Toimii terminaalissa, vaatii Python 3:n.
+ - Web: [HTML5 Across Lite Reader](http://derekslager.com/puz/) ([github](https://github.com/derekslager/xwordhtml)). Ei enää moderni, mutta toimii. Olisi kätevää upottaa joku vastaava suoraan tälle sivulle, mutta en ole nähnyt suoraan soveltuvaa.
+
