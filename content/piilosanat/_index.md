@@ -26,11 +26,15 @@ Palaute tehtävistä on tervetullutta. Toistaiseksi tavoitteenani on ollut tehd�
 
 [.puz](piilosana_2020-01-23.puz) / [.pdf](piilosana_2020-01-23.pdf)
 
+[Vinkkejä + ratkaisu]({{< ref "ratkotaan/1" >}})
+
 Ensimmäinen laatimani piilosana. Otin mielestäni mahdollisimman esteettisen klassisen 13x13-ruudukon, ja yritin valita kiinnostavia ratkaisusanoja. Vihjeissä pyrin kohtuullisuuteen, mutta ujutin yhden jälkikäteen ajatellen kohtuuttoman vihjeen/sanan mukaan. Jos jumitut, lue tämä sivu ajatuksella.
 
 ### Piilosana 2020-02-04
 
 [.puz](piilosana_2020-02-04.puz) / [.pdf](piilosana_2020-02-04.pdf)
+
+[Vinkkejä + ratkaisu]({{< ref "ratkotaan/2" >}})
 
 Pohdiskelin voisiko piilosanaa tehdä tavallisella ristikkoruudukolla, jolloin olisi helpompaa saada ratkaisuja ristikkäisten sanojen avulla. Kokeilin tällä pikkutehtävällä (8x5-ruudukko). Laatiminen oli aika paljon vaikeampaa, ja jouduin ottamaan taivutusmuotoja mukaan saadakseni muuten kivoja sanoja. Oletan tehtävän olevan ruudukon puolesta tavallista helpompi, joten osa vihjeistä on vaikeita.
 
