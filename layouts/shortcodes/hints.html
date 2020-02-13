@@ -2,8 +2,19 @@
 .hints li[hide] {
   visibility: hidden;
 }
+.hints h3 {
+  flex: 1;
+  padding: 0.5rem 0.5rem 0.5rem 0;
+  margin: 0;
+  font-size: 1.2rem;
+}
 .hints .show-hint {
-  margin-bottom: 1em;
+  font-size: 1rem;
+}
+@media (min-width: 640px) {
+  .hints .hint-heading {
+    display: flex;
+  }
 }
 </style>
 
@@ -16,12 +27,22 @@
 <script>
 Array.from(document.querySelectorAll(".hints li")).map(e => e.setAttribute("hide", ""))
 
-for (const ul of document.querySelectorAll(".hints > ul")) {
-  let btn = document.createElement("button")
+for (const h3 of document.querySelectorAll(".hints > h3")) {
+  const hints = h3.parentNode
+  const ul = h3.nextElementSibling
+
+  const wrapper = document.createElement("div")
+  wrapper.setAttribute("class", "hint-heading")
+
+  const btn = document.createElement("button")
   btn.setAttribute("class", "show-hint")
   btn.appendChild(document.createTextNode("Näytä vinkki"))
   btn.addEventListener("click", () => showNextHint(ul))
-  ul.parentNode.insertBefore(btn, ul)
+
+  hints.insertBefore(wrapper, h3)
+
+  wrapper.appendChild(h3)
+  wrapper.appendChild(btn)
 }
 
 function showNextHint(el) {
