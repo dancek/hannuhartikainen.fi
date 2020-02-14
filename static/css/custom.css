@@ -1,1 +1,26 @@
 pre { font-size: 80%; }
+
+.hints li[hide] {
+  visibility: hidden;
+}
+.hints h3 {
+  flex: 1;
+  padding: 0.5rem 0.5rem 0.5rem 0;
+  margin: 0;
+  font-size: 1.2rem;
+}
+.hints .show-hint {
+  font-size: 1rem;
+}
+@media (min-width: 640px) {
+  .hints .hint-heading {
+    display: flex;
+  }
+}
+
+.spoiler {
+  color: transparent;
+}
+.spoiler:hover {
+  color: inherit;
+}

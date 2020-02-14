@@ -16,7 +16,7 @@ tags:
 
 ## Piilosanojen ratkomisesta
 
-[Näin piilosanoja ratkotaan]({{< ref "ratkotaan" >}})
+[Ratkotaan piilosanoja!]({{< ref "ratkotaan" >}})
 
 ## Piilosanatehtävät
 
@@ -31,6 +31,9 @@ Palaute tehtävistä on tervetullutta. Toistaiseksi tavoitteenani on ollut tehd�
 Ensimmäinen laatimani piilosana. Otin mielestäni mahdollisimman esteettisen klassisen 13x13-ruudukon, ja yritin valita kiinnostavia ratkaisusanoja. Vihjeissä pyrin kohtuullisuuteen, mutta ujutin yhden jälkikäteen ajatellen kohtuuttoman vihjeen/sanan mukaan. Jos jumitut, lue tämä sivu ajatuksella.
 
 ### Piilosana 2020-02-04
+
+**Varoitus: tehtävä ei ole sääntöjen mukainen!**
+Sisältää taivutusmuotoja: {{< spoiler >}}genetiivi, akkusatiivi ja potentiaali{{< /spoiler >}}
 
 [.puz](piilosana_2020-02-04.puz) / [.pdf](piilosana_2020-02-04.pdf)
 
@@ -54,6 +57,11 @@ Vapaasti ladattavia piilosanoja muualla:
 
 - [Sanojen sommittelua -blogi](https://sanojensommittelua.net/). 28 kappaletta Pertti Oskalan laatimia piilosanoja pdf-muodossa.
 - [Ristikkoarkisto](http://sanaristikot.net/ristikot/?p=arkisto). 29 Sanaris Oy:n julkaisemaa piilosanaa. Mahdollisuus ratkaista selaimessa.
+
+Opastusta ratkomiseen:
+
+- [Sanaristikkofoorumin vihjeanalyyseja](https://www.sanaristikkofoorumi.net/wordpress/ristikot/vihjeanalyysit/), joissa käydään läpi kokonaisia tehtäviä hieman samaan tapaan kuin omassa ratkontaosiossani. Enemmän kuvaristikoita, mutta myös piilosanoja.
+- [Piilosanan ratkontaohje](https://sanojensommittelua.net/piilosanan-ratkontaohje/), kirjoittanut laatijakonkari Pertti Oskala.
 
 .puz-tiedostojen ratkomiseen toimivia sovelluksia:
 
