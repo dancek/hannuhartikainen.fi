@@ -28,7 +28,7 @@ title404 = "Nothing here!"
 
 [params.assets]
 favicon = "favicon.ico"
-customCSS = ["css/custom.css"]
+customCSS = ["css/custom-2020-02-14.css"]
 customJS = []
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
