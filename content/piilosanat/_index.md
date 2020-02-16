@@ -20,15 +20,19 @@ tags:
 
 ## Piilosanatehtävät
 
-Palaute tehtävistä on tervetullutta. Toistaiseksi tavoitteenani on ollut tehdä tehtävistä sellaisia, ettei aiempaa kokemusta piilosanoista tai ristikoista sinänsä tarvitse, kunhan tietää säännöt.
+Uusin ylimpänä. Palaute tervetullutta!
 
-### Piilosana 2020-01-23
+### Piilosana 2020-02-16
 
-[.puz](piilosana_2020-01-23.puz) / [.pdf](piilosana_2020-01-23.pdf)
+[.pdf](piilosana_2020-02-16.pdf)
 
-[Vinkkejä + ratkaisu]({{< ref "ratkotaan/1" >}})
+[Vinkkejä + ratkaisu]({{< ref "ratkotaan/3" >}})
 
-Ensimmäinen laatimani piilosana. Otin mielestäni mahdollisimman esteettisen klassisen 13x13-ruudukon, ja yritin valita kiinnostavia ratkaisusanoja. Vihjeissä pyrin kohtuullisuuteen, mutta ujutin yhden jälkikäteen ajatellen kohtuuttoman vihjeen/sanan mukaan. Jos jumitut, lue tämä sivu ajatuksella.
+Keksin yhdistellä perinteistä tiivistä ristikkoruudukkoa keskellä ja harvempaa piilosanaruudukkoa ympärillä niin, ettei laatiessa tarvinnut tehdä pahoja kompromisseja. Kuitenkin osaan sanoista saa enemmän apukirjaimia.
+
+Huomioin aiemman palautteen niin, että tehtävän pitäisi olla kaikkien taiteen sääntöjen mukainen ja selvästi parempi kuin aiemmat kaksi. Hyvät piilosanavihjeet ovat usein vaikeita, mutta yritin parhaani mukaan pitää vaikeustason siedettävänä. Tarkoitus on olla hauska eikä vaikea.
+
+Ristilaatijan tuottama puz-tiedosto oli korruptoitunut, mahdollisesti liian pitkän vihjeen takia. Luultavasti julkaisen puz:n myöhemmin.
 
 ### Piilosana 2020-02-04
 
@@ -42,6 +46,14 @@ Sisältää taivutusmuotoja: {{< spoiler >}}genetiivi, akkusatiivi ja potentiaal
 Pohdiskelin voisiko piilosanaa tehdä tavallisella ristikkoruudukolla, jolloin olisi helpompaa saada ratkaisuja ristikkäisten sanojen avulla. Kokeilin tällä pikkutehtävällä (8x5-ruudukko). Laatiminen oli aika paljon vaikeampaa, ja jouduin ottamaan taivutusmuotoja mukaan saadakseni muuten kivoja sanoja. Oletan tehtävän olevan ruudukon puolesta tavallista helpompi, joten osa vihjeistä on vaikeita.
 
 Laadintatyökalussani oli ongelmia epäneliömäisten ruudukoiden kanssa. Tulipahan korjattua ne samalla.
+
+### Piilosana 2020-01-23
+
+[.puz](piilosana_2020-01-23.puz) / [.pdf](piilosana_2020-01-23.pdf)
+
+[Vinkkejä + ratkaisu]({{< ref "ratkotaan/1" >}})
+
+Ensimmäinen laatimani piilosana. Otin mielestäni mahdollisimman esteettisen klassisen 13x13-ruudukon, ja yritin valita kiinnostavia ratkaisusanoja. Vihjeissä pyrin kohtuullisuuteen, mutta ujutin yhden jälkikäteen ajatellen kohtuuttoman vihjeen/sanan mukaan. Jos jumitut, lue tämä sivu ajatuksella.
 
 ## Julkaisemani työkalut
 

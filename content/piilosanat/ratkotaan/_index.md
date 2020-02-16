@@ -22,10 +22,12 @@ Jokaisessa vihjeessä on kaksi tapaa löytää ratkaisu. Tyypillisesti ne ovat "
 
 Vihjeen ymmärtämiseksi on erittäin hyödyllistä arvata, mikä kohta on merkitysvihjettä ja mikä sanaleikkiä. Merkitysvihje sijoittuu usein alkuun tai loppuun. Mielestäni hyvässä vihjeessä on juuri näin, ja loput vihjetekstistä kuuluu sanaleikkiin. Toki kieliopin vuoksi tarvitaan välillä ylimääräisiä sanoja. Muut laatijat näyttävät laittavan "ylimääräistä" tekstiä vihjeisiin tosin paljonkin, mikä vaikeuttaa ratkomista.
 
-Vihjeitä kannattaa luonnollisesti ratkoa helpoimmasta alkaen, eli lukaista aluksi kaikki ja edetä itselle sopivassa järjestyksessä. Vaikeampiin vihjeisiin saa sitten apukirjaimia. Näin edetään myös esimerkkiratkaisuissani.
+Vihjeitä kannattaa luonnollisesti ratkoa helpoimmasta alkaen, eli lukaista aluksi kaikki ja edetä itselle sopivassa järjestyksessä. Vaikeampiin vihjeisiin saa sitten apukirjaimia. Näin edetään myös joissain esimerkkiratkaisuissani.
 
 Vihjenumeroissa on mukana P tai V (pystysuoraan / vaakasuoraan).
 
 Anagrammeihin voi käyttää [apuvälinettä](https://dancek.github.io/anagwasm/), jos ei meinaa ratketa muuten.
 
 ## Tehtävien ratkaisuja selitettynä
+
+Huom: ratkaisusivuilla ei näe vihjeitä eikä ratkaisuja klikkaamatta. Niitä on siis turvallista lukea, vaikka haluaisi vinkin vain yhteen kohtaan.
