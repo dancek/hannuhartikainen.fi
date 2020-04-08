@@ -26,6 +26,7 @@ In alphabetical order.
 1. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core/commits?author=dancek)
 1. [imazen/slimmage](https://github.com/imazen/slimmage/commits?author=dancek)
 1. [jmesmon/illum](https://github.com/jmesmon/illum/commits?author=dancek)
+1. [MariaDB/server](https://github.com/MariaDB/server/commits/5.5?author=dancek)
 1. [metosin/reitit](https://github.com/metosin/reitit/commits?author=dancek)
 1. [neovim/neovim](https://github.com/neovim/neovim/commits/master?author=dancek)
 1. [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware/commits?author=dancek)
@@ -39,3 +40,8 @@ In alphabetical order.
 1. [sliedes/ufag](https://github.com/sliedes/ufag/commits?author=dancek)
 1. [technomancy/leiningen](https://github.com/technomancy/leiningen/commits/master?author=dancek)
 1. [twbs/bootstrap](https://github.com/twbs/bootstrap/commits?author=dancek)
+
+
+I've also tried to contribute to a handful of other repositories.
+- [my open PRs on Github](https://github.com/search?q=is%3Aopen+is%3Apr+author%3Adancek)
+- [my closed, unmerged PRs on Github](https://github.com/search?q=is%3Apr+author%3Adancek+is%3Aclosed+is%3Aunmerged)
