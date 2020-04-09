@@ -40,7 +40,7 @@ In alphabetical order.
 1. [sliedes/ufag](https://github.com/sliedes/ufag/commits?author=dancek)
 1. [technomancy/leiningen](https://github.com/technomancy/leiningen/commits/master?author=dancek)
 1. [twbs/bootstrap](https://github.com/twbs/bootstrap/commits?author=dancek)
-1. [zsh-users/zsh-completions]https://github.com/zsh-users/zsh-completions/commits?author=dancek
+1. [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions/commits?author=dancek)
 
 
 I've also tried to contribute to a handful of other repositories.
