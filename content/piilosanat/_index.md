@@ -3,7 +3,7 @@ title: "Piilosanat"
 date: 2020-01-23T20:34:46+02:00
 menu: main
 weight: -40
-date: "2020-02-05"
+date: "2020-04-11"
 lang: fi
 tags:
 - piilosana
@@ -21,6 +21,14 @@ tags:
 ## Piilosanatehtävät
 
 Uusin ylimpänä. Palaute tervetullutta!
+
+### Pääsiäispiilosana 2020-04-11
+
+[.pdf](pääsiäispiilosana_2020-04-11.pdf)
+
+[Vinkkejä + ratkaisu]({{< ref "ratkotaan/4" >}})
+
+Ajankohtainen tehtävä pääsiäisen aikaan koronakotoilun keskellä.
 
 ### Piilosana 2020-02-16
 
