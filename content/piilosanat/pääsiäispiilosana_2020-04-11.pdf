@@ -8,7 +8,7 @@
 >>
 endobj
 4 0 obj
-<</Length 15047>>
+<</Length 14943>>
 stream
 0.20 w
 0 G
@@ -972,7 +972,7 @@ BT
 11.5 TL
 0 g
 65.00 268.89 Td
-(Viljakiihkoinen kärsimyskertomus? \(9,6\) \(15\)) Tj
+(Viljakiihkoinen kärsimyskertomus? \(9,6\)) Tj
 ET
 BT
 /F1 10 Tf
@@ -1148,7 +1148,7 @@ BT
 0 g
 318.00 352.89 Td
 (Nuts! Onni peilailee oikealta ja vasemmalta: olen) Tj
-T* (kiihkokas uros! \(10,5\) \(15\)) Tj
+T* (kiihkokas uros! \(10,5\)) Tj
 ET
 BT
 /F1 10 Tf
@@ -1264,7 +1264,7 @@ BT
 0 g
 318.00 208.89 Td
 (Kauppa käy, ja sekä Zuckerbergin Mark että) Tj
-T* (Bizoksen Jeff on tyytyväisiä. \(6\)) Tj
+T* (Bezoksen Jeff on tyytyväisiä. \(6\)) Tj
 ET
 BT
 /F1 18 Tf
@@ -1279,13 +1279,6 @@ BT
 0 g
 50.00 771.89 Td
 (HANNU HARTIKAINEN) Tj
-ET
-BT
-/F1 9 Tf
-10.35 TL
-0 g
-154.75 771.89 Td
-(https://hannuhartikainen.fi/piilosanat/) Tj
 ET
 endstream
 endobj
@@ -1385,7 +1378,7 @@ endobj
 18 0 obj
 <<
 /Producer (jsPDF 1.x-master)
-/CreationDate (D:20200411103608+03'00')
+/CreationDate (D:20200412132712+03'00')
 >>
 endobj
 19 0 obj
@@ -1399,25 +1392,25 @@ endobj
 xref
 0 20
 0000000000 65535 f 
-0000015216 00000 n 
-0000016510 00000 n 
+0000015112 00000 n 
+0000016406 00000 n 
 0000000009 00000 n 
 0000000118 00000 n 
-0000015273 00000 n 
-0000015363 00000 n 
-0000015458 00000 n 
-0000015556 00000 n 
-0000015658 00000 n 
-0000015746 00000 n 
-0000015840 00000 n 
-0000015937 00000 n 
-0000016038 00000 n 
-0000016131 00000 n 
-0000016223 00000 n 
-0000016317 00000 n 
-0000016415 00000 n 
-0000016746 00000 n 
-0000016837 00000 n 
+0000015169 00000 n 
+0000015259 00000 n 
+0000015354 00000 n 
+0000015452 00000 n 
+0000015554 00000 n 
+0000015642 00000 n 
+0000015736 00000 n 
+0000015833 00000 n 
+0000015934 00000 n 
+0000016027 00000 n 
+0000016119 00000 n 
+0000016213 00000 n 
+0000016311 00000 n 
+0000016642 00000 n 
+0000016733 00000 n 
 trailer
 <<
 /Size 20
@@ -1425,5 +1418,5 @@ trailer
 /Info 18 0 R
 >>
 startxref
-16941
+16837
 %%EOF
