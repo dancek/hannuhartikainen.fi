@@ -22,17 +22,13 @@ tags:
 
 Uusin ylimpänä. Palaute tervetullutta!
 
-### Pääsiäispiilosana 2020-04-11
-
-[.pdf](pääsiäispiilosana_2020-04-11.pdf)
+### Pääsiäispiilosana 2020-04-11 {{< xw-links pääsiäispiilosana_2020-04-11 >}}
 
 [Vinkkejä + ratkaisu]({{< ref "ratkotaan/4" >}})
 
 Ajankohtainen tehtävä pääsiäisen aikaan koronakotoilun keskellä.
 
-### Piilosana 2020-02-16
-
-[.pdf](piilosana_2020-02-16.pdf)
+### Piilosana 2020-02-16 {{< xw-links piilosana_2020-02-16 >}}
 
 [Vinkkejä + ratkaisu]({{< ref "ratkotaan/3" >}})
 
@@ -42,12 +38,10 @@ Huomioin aiemman palautteen niin, että tehtävän pitäisi olla kaikkien taitee
 
 Ristilaatijan tuottama puz-tiedosto oli korruptoitunut, mahdollisesti liian pitkän vihjeen takia. Luultavasti julkaisen puz:n myöhemmin.
 
-### Piilosana 2020-02-04
+### Piilosana 2020-02-04 {{< xw-links piilosana_2020-02-04 >}}
 
 **Varoitus: tehtävä ei ole sääntöjen mukainen!**
 Sisältää taivutusmuotoja: {{< spoiler >}}genetiivi, akkusatiivi ja potentiaali{{< /spoiler >}}
-
-[.puz](piilosana_2020-02-04.puz) / [.pdf](piilosana_2020-02-04.pdf)
 
 [Vinkkejä + ratkaisu]({{< ref "ratkotaan/2" >}})
 
@@ -55,21 +49,19 @@ Pohdiskelin voisiko piilosanaa tehdä tavallisella ristikkoruudukolla, jolloin o
 
 Laadintatyökalussani oli ongelmia epäneliömäisten ruudukoiden kanssa. Tulipahan korjattua ne samalla.
 
-### Piilosana 2020-01-23
-
-[.puz](piilosana_2020-01-23.puz) / [.pdf](piilosana_2020-01-23.pdf)
+### Piilosana 2020-01-23 {{< xw-links piilosana_2020-01-23 >}}
 
 [Vinkkejä + ratkaisu]({{< ref "ratkotaan/1" >}})
 
 Ensimmäinen laatimani piilosana. Otin mielestäni mahdollisimman esteettisen klassisen 13x13-ruudukon, ja yritin valita kiinnostavia ratkaisusanoja. Vihjeissä pyrin kohtuullisuuteen, mutta ujutin yhden jälkikäteen ajatellen kohtuuttoman vihjeen/sanan mukaan. Jos jumitut, lue tämä sivu ajatuksella.
 
-## Julkaisemani työkalut
+## Kehittämäni työkalut
 
 [**ristilaatija**](http://dancek.github.io/ristilaatija/) soveltuu piilosanatehtävien ja myös muiden ristikoiden laadintaan. Se pohjautuu [Phil](http://www.keiranking.com/phil/)-laatimeen, jonka tekijä on laatinut ristikoita New York Timesiin. Oma panokseni on suomen kielen tuki sekä liuta bugikorjauksia ja parannuksia. Käyttöliittymä on englanniksi, mutta tuotetut pdf:t sisältävät otsikot suomeksi ja puz-tiedostot eivät ota kantaa kieleen.
 
 [**anagwasm**](https://dancek.github.io/anagwasm/) on selaimessa toimiva anagrammityökalu. Sekin perustuu muiden tekemiin työkaluihin ([ufag-rs](https://github.com/Detegr/ufag-rs), [ufag](https://github.com/sliedes/ufag)).
 
-Molemmat työkalut sisältävät Kotuksen julkaiseman suomen kielen sanalistan, ja olen niitä menestyksekkäästi itse käyttänyt. Pull requestit ja toistettavat bugiraportit ovat tervetulleita, mutta kehitysideoita en kaipaa.
+[**clossword**](https://github.com/dancek/clossword) on varsin keskeneräinen, mutta käärii react-crosswordia juuri riittävän paljon toimiakseen tämän sivuston web-ratkontasovelluksena.
 
 ## Linkkejä
 
