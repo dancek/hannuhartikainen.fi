@@ -5,4 +5,4 @@ platforms = ["github","gitlab","codepen","linkedin","email","facebook","twitter"
 [recent_posts]
 title = "Blog posts"
 length = 100
-excludeTypes = ["page", "piilosanat"]
+excludeTypes = ["page", "piilosanat", "app"]
