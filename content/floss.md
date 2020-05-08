@@ -38,6 +38,7 @@ In alphabetical order.
 1. [PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl/commit/e03532a23362e097fa286e4dda64d3425c6bc8bf)
 1. [sjappig/velo-backend](https://github.com/sjappig/velo-backend/commits?author=dancek)
 1. [sliedes/ufag](https://github.com/sliedes/ufag/commits?author=dancek)
+1. [softmoth/zsh-vim-mode](https://github.com/softmoth/zsh-vim-mode/commits?author=dancek)
 1. [technomancy/leiningen](https://github.com/technomancy/leiningen/commits/master?author=dancek)
 1. [twbs/bootstrap](https://github.com/twbs/bootstrap/commits?author=dancek)
 1. [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions/commits?author=dancek)
