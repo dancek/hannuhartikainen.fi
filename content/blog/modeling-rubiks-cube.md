@@ -1,8 +1,8 @@
----
-title: "Modeling a Rubik's Cube"
-date: 2018-07-17T13:00:02+03:00
-tags: ["Rubik's Cube", "clojure"]
----
++++
+title = "Modeling a Rubik's Cube"
+date = 2018-07-17T13:00:02+03:00
+tags = ["Rubik's Cube", "clojure"]
++++
 
 There are a couple of programming problems I've thought about since I was a teen, but never made a real effort to solve. One of them is a solver the [Rubik's Cube](https://en.wikipedia.org/wiki/Rubik%27s_Cube).
 

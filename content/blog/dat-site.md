@@ -1,8 +1,8 @@
----
-title: "dat:// site tho"
-date: 2018-06-14T18:38:58+03:00
-tags: ["dat", "tools", "web", "decentralization"]
----
++++
+title = "dat:// site tho"
+date = 2018-06-14T18:38:58+03:00
+tags = ["dat", "tools", "web", "decentralization"]
++++
 
 I came across the [Dat Project](http://datproject.org/) yesterday. In short it's BitTorrent-based web with version history---yes, I admit my description sounds like one of those uber-for-larvae startups. But I quickly tried `dat` out and it seems very useful for filesharing and has potential for content publishing.
 <!--more-->

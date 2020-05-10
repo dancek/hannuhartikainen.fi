@@ -1,8 +1,8 @@
----
-title: "A quine in sed"
-date: 2019-04-01T21:41:01+03:00
-tags: ["quine", "sed", "shell"]
----
++++
+title = "A quine in sed"
+date = 2019-04-01T21:41:01+03:00
+tags = ["quine", "sed", "shell"]
++++
 
 Yesterday someone on IRC corrected their typos with classic sed-like replaces[^1], and for some reason that got me wondering if you can write a [quine](https://en.wikipedia.org/wiki/Quine_(computing)) in [sed](https://en.wikipedia.org/wiki/Sed).
 

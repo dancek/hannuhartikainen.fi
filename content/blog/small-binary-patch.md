@@ -1,11 +1,8 @@
----
-title: "Looking for a small binary patch"
-date: 2020-02-12T11:00:00+03:00
-tags:
-- RETRY
-- Android
-- bsdiff
----
++++
+title = "Looking for a small binary patch"
+date = 2020-02-12T11:00:00+03:00
+tags = ["RETRY", "Android", "bsdiff"]
++++
 
 *To make re-RETRY more easy to get, I thought of providing a bsdiff-based binary patch. Creating a small one is not easy, though.*
 

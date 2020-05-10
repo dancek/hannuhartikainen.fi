@@ -1,10 +1,9 @@
----
-title: "Ratkotaan piilosanoja!"
-date: 2020-02-12T12:00:00+02:00
-lang: fi
-tags:
-- piilosana
----
++++
+title = "Ratkotaan piilosanoja!"
+date = 2020-02-12T12:00:00+02:00
+lang = "fi"
+tags = ["piilosana"]
++++
 
 Piilosanat ovat useimmille tuntemattomia ja hämmentäviä. Vihjeissä ei tunnu olevan päätä eikä häntää. Kuitenkin alkuun pääsyn jälkeen tehtävät vievät mennessään, ja ainakin minusta ovat huomattavasti tavallisia kuvaristikoita kiinnostavampia.
 

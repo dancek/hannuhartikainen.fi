@@ -1,18 +1,18 @@
----
-title: "Summer cycling season 2018 is here"
-date: 2018-05-02T08:00:00+03:00
-tags: ['maintenance']
-resources:
-- src: images/upside-down-bikes.jpg
-  title: Tire change in progress. Cyclocross in front; city bike and singlespeed in the back.
-- src: images/925-new-tires.jpg
-  title: Singlespeed (Redline 925) with GP4000s installed.
-- src: images/925-new-chain.jpg
-  title: And the new chain.
-- src: images/freewheels.jpg
-  title: And the new freewheel (back). The old one was the infamous Dicta, just as suspected.
-- src: images/rim-tape.jpg
----
++++
+title = "Summer cycling season 2018 is here"
+date = 2018-05-02T08:00:00+03:00
+tags = ["maintenance"]
+#resources:
+#- src: images/upside-down-bikes.jpg
+#  title: Tire change in progress. Cyclocross in front; city bike and singlespeed in the back.
+#- src: images/925-new-tires.jpg
+#  title: Singlespeed (Redline 925) with GP4000s installed.
+#- src: images/925-new-chain.jpg
+#  title: And the new chain.
+#- src: images/freewheels.jpg
+#  title: And the new freewheel (back). The old one was the infamous Dicta, just as suspected.
+#- src: images/rim-tape.jpg
++++
 
 It's the non-slippery time of the year: the last snow we had was three weeks ago! That means summer tires. And to use them you need to change them.
 

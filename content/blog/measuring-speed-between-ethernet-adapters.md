@@ -1,8 +1,8 @@
----
-title: "Measuring speed between two ethernet adapters"
-date: 2020-04-12T00:05:49+03:00
-tags: [network, hardware]
----
++++
+title = "Measuring speed between two ethernet adapters"
+date = 2020-04-12T00:05:49+03:00
+tags = ["network", "hardware"]
++++
 
 Measuring LAN speed is not very well documented, so after spending an hour I wanted to write down my findings.
 <!--more-->

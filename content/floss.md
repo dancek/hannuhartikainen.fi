@@ -1,11 +1,10 @@
----
-title: FLOSS
-menu: main
-weight: -50
-date: "2018-12-01"
-tags:
-- FLOSS
----
++++
+title = "FLOSS"
+menu = "main"
+weight = 50
+date = 2018-12-01
+tags = ["FLOSS"]
++++
 
 ## My own (notable) FLOSS projects
 

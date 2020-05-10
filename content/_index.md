@@ -1,5 +1,5 @@
----
-title: Home
-menu: main
-weight: -270
----
++++
+title = "Home"
+menu = "main"
+weight = 10
++++

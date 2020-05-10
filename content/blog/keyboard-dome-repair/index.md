@@ -1,17 +1,17 @@
----
-title: "Repairing a stuck rubber dome key"
-date: 2018-11-25T11:27:39+03:00
-tags: ['maintenance']
-resources:
-- src: images/washing.jpg
-  title: This is a story of washing a keyboard. I mean, repairing a keyboard. But I also washed it, so have a photo of my submerged keyboard. No, it's not water-resistant.
-- src: images/ripped.jpg
-  title: The torn silicone dome.
-- src: images/open.jpg
-  title: The inside of my keyboard.
-- src: images/stacked.jpg
-  title: Another dome stacked under the original one.
----
++++
+title = "Repairing a stuck rubber dome key"
+date = 2018-11-25T11:27:39+03:00
+tags = ["maintenance"]
+#resources:
+#- src: images/washing.jpg
+#  title: This is a story of washing a keyboard. I mean, repairing a keyboard. But I also washed it, so have a photo #of my submerged keyboard. No, it's not water-resistant.
+#- src: images/ripped.jpg
+#  title: The torn silicone dome.
+#- src: images/open.jpg
+#  title: The inside of my keyboard.
+#- src: images/stacked.jpg
+#  title: Another dome stacked under the original one.
++++
 
 {{< image "images/washing.jpg" >}}
 

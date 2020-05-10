@@ -1,8 +1,8 @@
----
-title: Looking for the best everyday compression tool
-date: 2018-04-21T22:30:00+03:00
-tags: ["compression"]
----
++++
+title = "Looking for the best everyday compression tool"
+date = 2018-04-21T22:30:00+03:00
+tags = ["compression"]
++++
 
 _**TL;DR** [lbzip2](http://lbzip2.org/) is a great default. But for fast compression, [pzstd](https://github.com/facebook/zstd/tree/dev/contrib/pzstd) is the best._
 

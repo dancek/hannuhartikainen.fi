@@ -1,100 +1,15 @@
-baseURL = "https://hannuhartikainen.fi"
-title = "Hannu Hartikainen"
-# for smart copyright line, leave this blank and check [params.copyright]
-copyright = ""
+# The URL the site will be built for
+base_url = "https://hannuhartikainen.fi"
 
-theme = "minimo"
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
 
-disqusShortname = ""
-googleAnalytics = ""
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
 
-Paginate = 10
-preserveTaxonomyNames = true
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
 
-enableRobotsTXT = true # generate robots.txt
-
-# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
-pygmentsCodefences = true
-pygmentsCodefencesGuessSyntax = true
-
-enableEmoji = true
-
-# Missing translations will default to this content language
-defaultContentLanguage = "en"
-
-[params.info]
-description = ""
-title404 = "Nothing here!"
-
-[params.assets]
-favicon = "favicon.ico"
-customCSS = ["css/custom-2020-02-14.css"]
-customJS = []
-gopher = "" # used in 404 template ( Generator: https://gopherize.me )
-
-[params.copyright]
-prefix = ""
-holder = "Hannu Hartikainen"
-startYear = "2018"
-suffix = ""
-
-[params.settings]
-# date & time format: https://golang.org/pkg/time/
-dateFormat = "2006-01-02"
-listDateFormat = "2006-01-02"
-archiveDateFormat = "2006-01-02"
-hideEntryNavigation = ["", "page"] # boolean / array of sections
-hideEntryMeta = ["", "page"] # boolean / array of sections
-hideSocialMenu = false
-showReadingTime = true
-taxonomyCloudShuffle = true
-accentColor = "#3baeff"
-
-[params.sidebar]
-enable = false
-
-[params.widgets]
-homepage = ["recent_posts"]
-sidebar = ["about","taxonomy_cloud"]
-footer = ["social_menu"]
-
-[params.opengraph.twitter]
-page = "" # Twitter page username
-
-[params.seo]
-# Title Separator: - – — · • * ⋆ | ~ « » < >
-titleSeparator = "•"
-
-[params.social]
-codepen = "dancek"
-email = "hannu.hartikainen+hhfi@gmail.com"
-facebook = ""
-github = "dancek"
-gitlab = "dancek"
-instagram = ""
-linkedin = ""
-twitter = ""
-telegram = ""
-google_scholar = ""
-
-[params.comments]
-enable = true
-
-[params.comments.utterances]
-enable = true
-repo = "dancek/hannuhartikainen.fi"
-issueTerm = "pathname"
-
-[taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"
-
-[permalinks]
-page = "/:slug/"
-
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/dancek/hannuhartikainen.fi"
+[extra]
+# Put all your custom variables here

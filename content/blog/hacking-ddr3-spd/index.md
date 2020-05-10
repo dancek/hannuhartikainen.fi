@@ -1,13 +1,13 @@
----
-title: "Hacking DDR3 SPD"
-date: 2018-05-27T13:20:10+03:00
-tags: ['hardware', 'EEPROM', 'RAM', 'I2C']
-resources:
-- src: images/work-area.jpg
-  title: Work area. The Thinkpad used for flashing on the right, the MBP that caused the whole problem on the left.
-- src: images/rebinned-ddr3.jpg
-  title: A re-binned DDR3 SODIMM ready to go in the MacBook Pro.
----
++++
+title = "Hacking DDR3 SPD"
+date = 2018-05-27T13:20:10+03:00
+tags = ["hardware", "EEPROM", "RAM", "I2C"]
+#resources:
+#- src: images/work-area.jpg
+#  title: Work area. The Thinkpad used for flashing on the right, the MBP that caused the whole problem on the left.
+#- src: images/rebinned-ddr3.jpg
+#  title: A re-binned DDR3 SODIMM ready to go in the MacBook Pro.
++++
 
 **I was upgrading an old laptop with two 4GB PC3-10600 memory modules and it turned out PC3-8500 was absolutely needed instead. What's a man to do? Of course rewrite the EEPROM to re-bin the memory module as a slower model!**
 <!--more-->

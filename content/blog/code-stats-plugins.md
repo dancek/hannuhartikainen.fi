@@ -1,8 +1,8 @@
----
-title: "Code::Stats plugins for Zsh and Vim"
-date: 2018-04-05T14:30:34+03:00
-tags: ["FLOSS", "Code::Stats", "vim", "zsh", "shell"]
----
++++
+title = "Code::Stats plugins for Zsh and Vim"
+date = 2018-04-05T14:30:34+03:00
+tags = ["FLOSS", "Code::Stats", "vim", "zsh", "shell"]
++++
 
 *To get this blog started, I'm writing about some code I've put online. The most interesting are probably the two Code::Stats plugins I've created.*
 
@@ -43,7 +43,7 @@ The plugins were a lot of fun to write, and I had to learn a lot of new stuff fo
 - **Robust `multiprocessing`**. Distributed systems are difficult to get right.
 - **Releasing software for other people to use**. That means prioritizing usability both at install and run time, avoiding all the corner-case glitches that won't happen on my machine, writing good READMEs etc.
 
----
++++
 
 Both plugins are under the Code::Stats organization on Gitlab. Both have users beside myself (yay!).
 

@@ -1,8 +1,8 @@
----
-title: "Arch Linux on Windows 10"
-date: 2018-04-18T22:40:17+03:00
-tags: ["Arch Linux", "Windows", "WSL"]
----
++++
+title = "Arch Linux on Windows 10"
+date = 2018-04-18T22:40:17+03:00
+tags = ["Arch Linux", "Windows", "WSL"]
++++
 
 I recently updated my gaming PC from Windows 7 to 10. I'd heard people talk about WSL (Windows Subsystem for Linux) so I wanted to try it out. I wasn't very keen on playing with Ubuntu, though. I used Debian as my main OS for a long time and as Ubuntu came along it felt like a watered-down misconfigured version of Debian (sorry---it's a great distro, just not my cup of tea). But I already have a real Debian installation in dual-boot, so why add another?
 
