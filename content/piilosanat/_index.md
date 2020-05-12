@@ -1,11 +1,8 @@
 +++
 title = "Piilosanat"
-menu = "main"
-weight = 30
 date = "2020-04-11"
 lang = "fi"
 tags = ["piilosana"]
-
 +++
 
 **Briefly in English:** This page contains Finnish cryptic crosswords I've constructed and tools useful for working with crosswords in Finnish.

@@ -1,7 +1,14 @@
 {% extends "base.html" %}
 
 {% block content %}
-<h1 class="title">
-  This is my blog made with Zola.
-</h1>
+<article>
+  {{ section.content | safe }}
+</article>
+
+<ul>
+  {% set blog = get_section(path="blog/_index.md") %}
+  {% for page in blog.pages %}
+  <li><a href="{{ page.permalink | safe }}">{{ page.date | date }} {{ page.title }}</a></li>
+  {% endfor %}
+</ul>
 {% endblock content %}

@@ -2,14 +2,24 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Hannu Hartikainen</title>
+  <title>{% block title %}Hannu Hartikainen{% endblock %}</title>
 </head>
 
 <body>
-  <section class="section">
-    <div class="container">
-      {% block content %} {% endblock %}
-    </div>
+  <header>
+    Hannu Hartikainen's website
+    <nav>
+      <a href="{{ config.base_url }}">Home</a>
+      <a href="{{ get_url(path="@/floss.md") }}">FLOSS</a>
+      <a href="{{ get_url(path="@/piilosanat/_index.md") }}">Piilosanat</a>
+      <a href="https://github.com/dancek/hannuhartikainen.fi">Repo</a>
+    </nav>
+  </header>
+  <section class="content">
+    {% block content %}{% endblock %}
   </section>
+  <footer>
+    &copy; Hannu Hartikainen 2018–{{ now() | date(format="%Y") }}
+  </footer>
 </body>
 </html>
