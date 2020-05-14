@@ -2,16 +2,6 @@
 title = "Summer cycling season 2018 is here"
 date = 2018-05-02T08:00:00+03:00
 tags = ["maintenance"]
-#resources:
-#- src: images/upside-down-bikes.jpg
-#  title: Tire change in progress. Cyclocross in front; city bike and singlespeed in the back.
-#- src: images/925-new-tires.jpg
-#  title: Singlespeed (Redline 925) with GP4000s installed.
-#- src: images/925-new-chain.jpg
-#  title: And the new chain.
-#- src: images/freewheels.jpg
-#  title: And the new freewheel (back). The old one was the infamous Dicta, just as suspected.
-#- src: images/rim-tape.jpg
 +++
 
 It's the non-slippery time of the year: the last snow we had was three weeks ago! That means summer tires. And to use them you need to change them.
@@ -22,7 +12,7 @@ I was going to just quickly blog about having changed tires. That was over two w
 
 So I changed our car tires and finally figured out a combination of equipment that makes it easy. But that's uninteresting. Let me blabber about my bikes instead. I've got three bikes, and two of them had winter tires in the front. I didn't put any in the back this winter. I wasn't happy with the tires on the third one, either, so basically I changed five out of my six bicycle tires.
 
-{{< image "images/upside-down-bikes.jpg" >}}
+{{ image(path="blog/summer-cycling/images/upside-down-bikes.jpg", title="Tire change in progress. Cyclocross in front; city bike and singlespeed in the back.") }}
 
 I've got three-year-old twins. During the tire change, which lasted about a week in total, I realized the 8-second tire change must have been invented by a father of small children. I love doing stuff with my kids and it's great that they sometimes help with my projects too. But sometimes it takes five separate sessions to get one wheel off, empty the tube, take the tire off the rim, get the new tire and tube seated on, inflate it and reinstall the wheel. A 15-minute job.
 
@@ -40,23 +30,21 @@ Schwalbe Marathon Almotion (40-622). After realizing how great good tires are co
 
 Continental Grand Prix 4000 S II (28-622). I've avoided proper road tyres this far, but the singlespeed came with horrible tires, the Kojaks fit too tightly with mudguards and there was a good deal on the GP4000s. Great tires, but I'd like to have them a bit wider. The aerodynamics and weight penalty of 32mm or so would be negligible in my use. And I'll be unhappy about their puncture resistance when I get a flat.
 
-{{< image "images/925-new-tires.jpg" >}}
+{{ image(path="blog/summer-cycling/images/925-new-tires.jpg", title="Singlespeed (Redline 925) with GP4000s installed.") }}
 
 Having once changed a tire before because of a flat had me prepared with new rim tapes. But it was worse than I thought or remembered:
 
-{{< image "images/rim-tape.jpg" >}}
-
-I would have thought you'd get flats if rim tape doesn't cover holes. Apparently it's fine.
+{{ image(path="blog/summer-cycling/images/rim-tape.jpg", title="I would have thought you'd get flats if rim tape doesn't cover holes. Apparently it's fine.") }}
 
 ## Other maintenance
 
 Due to weather and stuff I've mostly been riding the singlespeed. It didn't take me long to be annoyed with the rusty, worn-out chain that I was already supposed to change earlier.
 
-{{< image "images/925-new-chain.jpg" >}}
+{{ image(path="blog/summer-cycling/images/925-new-chain.jpg", title="And the new chain.") }}
 
 After changing the chain I noticed a clunk while pedaling that I'd forgotten. I was pretty sure it was the freewheel and as it didn't get better with oil, I got a brand-new Shimano freewheel. The history of the bike is that I bought it used last summer for very cheap and gathered used cheap parts for a while until I could convert it to drop bars. This spring it's getting some new parts and I'm starting to realize I really like this bike.
 
-{{< image "images/freewheels.jpg" >}}
+{{ image(path="blog/summer-cycling/images/freewheels.jpg", title="And the new freewheel (back). The old one was the infamous Dicta, just as suspected.") }}
 
 I really bought the 925 to try out fixed gear. I flipped to the freewheel side after about 100km, having developed a bit of knee pain. Why some people prefer fixed gear, I'm still not sure, yet the other side of the flip-flop hub seems to be calling out to me whenever I look at it...
 

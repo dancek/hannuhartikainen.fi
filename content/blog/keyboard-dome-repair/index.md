@@ -2,18 +2,9 @@
 title = "Repairing a stuck rubber dome key"
 date = 2018-11-25T11:27:39+03:00
 tags = ["maintenance"]
-#resources:
-#- src: images/washing.jpg
-#  title: This is a story of washing a keyboard. I mean, repairing a keyboard. But I also washed it, so have a photo #of my submerged keyboard. No, it's not water-resistant.
-#- src: images/ripped.jpg
-#  title: The torn silicone dome.
-#- src: images/open.jpg
-#  title: The inside of my keyboard.
-#- src: images/stacked.jpg
-#  title: Another dome stacked under the original one.
 +++
 
-{{< image "images/washing.jpg" >}}
+{{ image(path="blog/keyboard-dome-repair/images/washing.jpg", title="This is a story of washing a keyboard. I mean, repairing a keyboard. But I also washed it, so have a photo of my submerged keyboard. No, it's not water-resistant.") }}
 
 I bought a rubber dome gaming keyboard in maybe 2012 thinking keyboards last forever. Millions of keypresses later[^1] the spacebar started getting stuck. But it pains me to throw stuff away because of a single problem, so I set out to repair it.
 
@@ -21,11 +12,11 @@ I bought a rubber dome gaming keyboard in maybe 2012 thinking keyboards last for
 
 I first took the keyboard apart to see what's wrong.
 
-{{< image "images/open.jpg" >}}
+{{ image(path="blog/keyboard-dome-repair/images/open.jpg", title="The inside of my keyboard.") }}
 
 Well, the dome for spacebar had seen better days. This wouldn't be easy to fix.
 
-{{< image "images/ripped.jpg" >}}
+{{ image(path="blog/keyboard-dome-repair/images/ripped.jpg", title="The torn silicone dome.") }}
 
 A quick search pretty much told me that people don't repair rubber dome keyboards. The best resource I found was [this question on SuperUser](https://superuser.com/q/1122047/72407) (which I later answered myself).
 
@@ -37,7 +28,7 @@ I didn't believe I could make the bond hold for tens of thousands of keypresses 
 
 You know that calculator key? You probably don't, because why would anyone put a dedicated key for a calculator! Anyway, I cut out the rubber dome for my calculator key and put it under the spacebar dome. After some careful trimming, the transplanted dome was ready for action.
 
-{{< image "images/stacked.jpg" >}}
+{{ image(path="blog/keyboard-dome-repair/images/stacked.jpg", title="Another dome stacked under the original one.") }}
 
 I put the keyboard back together and tried it. The spacebar was slightly stiffer than the other keys and otherwise worked perfectly.
 
