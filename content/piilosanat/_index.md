@@ -17,13 +17,13 @@ tags = ["piilosana"]
 
 Uusin ylimpänä. Palaute tervetullutta!
 
-### Pääsiäispiilosana 2020-04-11 {{< xw-links pääsiäispiilosana_2020-04-11 >}}
+### Pääsiäispiilosana 2020-04-11 {{ xw_links(id="pääsiäispiilosana_2020-04-11") }}
 
 [Vinkkejä + ratkaisu](@/piilosanat/ratkotaan/4.md)
 
 Ajankohtainen tehtävä pääsiäisen aikaan koronakotoilun keskellä.
 
-### Piilosana 2020-02-16 {{< xw-links piilosana_2020-02-16 >}}
+### Piilosana 2020-02-16 {{ xw_links(id="piilosana_2020-02-16") }}
 
 [Vinkkejä + ratkaisu](@/piilosanat/ratkotaan/3.md)
 
@@ -33,7 +33,7 @@ Huomioin aiemman palautteen niin, että tehtävän pitäisi olla kaikkien taitee
 
 Ristilaatijan tuottama puz-tiedosto oli korruptoitunut, mahdollisesti liian pitkän vihjeen takia. Luultavasti julkaisen puz:n myöhemmin.
 
-### Piilosana 2020-02-04 {{< xw-links piilosana_2020-02-04 >}}
+### Piilosana 2020-02-04 {{ xw_links(id="piilosana_2020-02-04") }}
 
 **Varoitus: tehtävä ei ole sääntöjen mukainen!**
 Sisältää taivutusmuotoja: {{< spoiler >}}genetiivi, akkusatiivi ja potentiaali{{< /spoiler >}}
@@ -44,7 +44,7 @@ Pohdiskelin voisiko piilosanaa tehdä tavallisella ristikkoruudukolla, jolloin o
 
 Laadintatyökalussani oli ongelmia epäneliömäisten ruudukoiden kanssa. Tulipahan korjattua ne samalla.
 
-### Piilosana 2020-01-23 {{< xw-links piilosana_2020-01-23 >}}
+### Piilosana 2020-01-23 {{ xw_links(id="piilosana_2020-01-23") }}
 
 [Vinkkejä + ratkaisu](@/piilosanat/ratkotaan/1.md)
 

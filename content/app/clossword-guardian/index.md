@@ -1,10 +1,9 @@
----
++++
 title = "Piilosanaverkkoratkaisin"
 date = 2020-05-08T22:27:54+03:00
----
-
++++
 <style>
-  .container {
+  body {
     max-width: initial;
   }
 </style>
