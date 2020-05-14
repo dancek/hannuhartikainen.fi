@@ -1,0 +1,56 @@
+:root {
+    --fg: #333;
+    --bg: #fff;
+    --link: #39d;
+
+    @media (prefers-color-scheme: dark) {
+        --fg: #ddd;
+        --bg: #000;
+        --link: #5bf;
+    }
+
+    box-sizing: border-box;
+    background-color: var(--bg);
+    color: var(--fg);
+    font-size: calc(14px + 0.3vw);
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.7;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+    margin: auto;
+    padding: 0.5rem;
+    max-width: 48rem;
+}
+
+a {
+    &, &:active, &:visited {
+        color: var(--link);
+    }
+}
+
+figure {
+    width: 100%;
+    margin: 0;
+    padding: 1rem 0;
+
+    img {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    figcaption {
+        padding: 0.5rem 1rem;
+        text-align: center;
+        font-style: italic;
+        font-size: 110%;
+        line-height: 1.3;
+    }
+}
