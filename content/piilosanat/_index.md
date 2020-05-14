@@ -11,7 +11,7 @@ tags = ["piilosana"]
 
 ## Piilosanojen ratkomisesta
 
-[Ratkotaan piilosanoja!]({{< ref "ratkotaan" >}})
+[Ratkotaan piilosanoja!](@/piilosanat/ratkotaan/_index.md)
 
 ## Piilosanatehtävät
 
@@ -19,13 +19,13 @@ Uusin ylimpänä. Palaute tervetullutta!
 
 ### Pääsiäispiilosana 2020-04-11 {{< xw-links pääsiäispiilosana_2020-04-11 >}}
 
-[Vinkkejä + ratkaisu]({{< ref "ratkotaan/4" >}})
+[Vinkkejä + ratkaisu](@/piilosanat/ratkotaan/4.md)
 
 Ajankohtainen tehtävä pääsiäisen aikaan koronakotoilun keskellä.
 
 ### Piilosana 2020-02-16 {{< xw-links piilosana_2020-02-16 >}}
 
-[Vinkkejä + ratkaisu]({{< ref "ratkotaan/3" >}})
+[Vinkkejä + ratkaisu](@/piilosanat/ratkotaan/3.md)
 
 Keksin yhdistellä perinteistä tiivistä ristikkoruudukkoa keskellä ja harvempaa piilosanaruudukkoa ympärillä niin, ettei laatiessa tarvinnut tehdä pahoja kompromisseja. Kuitenkin osaan sanoista saa enemmän apukirjaimia.
 
@@ -38,7 +38,7 @@ Ristilaatijan tuottama puz-tiedosto oli korruptoitunut, mahdollisesti liian pitk
 **Varoitus: tehtävä ei ole sääntöjen mukainen!**
 Sisältää taivutusmuotoja: {{< spoiler >}}genetiivi, akkusatiivi ja potentiaali{{< /spoiler >}}
 
-[Vinkkejä + ratkaisu]({{< ref "ratkotaan/2" >}})
+[Vinkkejä + ratkaisu](@/piilosanat/ratkotaan/2.md)
 
 Pohdiskelin voisiko piilosanaa tehdä tavallisella ristikkoruudukolla, jolloin olisi helpompaa saada ratkaisuja ristikkäisten sanojen avulla. Kokeilin tällä pikkutehtävällä (8x5-ruudukko). Laatiminen oli aika paljon vaikeampaa, ja jouduin ottamaan taivutusmuotoja mukaan saadakseni muuten kivoja sanoja. Oletan tehtävän olevan ruudukon puolesta tavallista helpompi, joten osa vihjeistä on vaikeita.
 
@@ -46,7 +46,7 @@ Laadintatyökalussani oli ongelmia epäneliömäisten ruudukoiden kanssa. Tulipa
 
 ### Piilosana 2020-01-23 {{< xw-links piilosana_2020-01-23 >}}
 
-[Vinkkejä + ratkaisu]({{< ref "ratkotaan/1" >}})
+[Vinkkejä + ratkaisu](@/piilosanat/ratkotaan/1.md)
 
 Ensimmäinen laatimani piilosana. Otin mielestäni mahdollisimman esteettisen klassisen 13x13-ruudukon, ja yritin valita kiinnostavia ratkaisusanoja. Vihjeissä pyrin kohtuullisuuteen, mutta ujutin yhden jälkikäteen ajatellen kohtuuttoman vihjeen/sanan mukaan. Jos jumitut, lue tämä sivu ajatuksella.
 
