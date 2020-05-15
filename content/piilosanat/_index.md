@@ -36,7 +36,7 @@ Ristilaatijan tuottama puz-tiedosto oli korruptoitunut, mahdollisesti liian pitk
 ### Piilosana 2020-02-04 {{ xw_links(id="piilosana_2020-02-04") }}
 
 **Varoitus: tehtävä ei ole sääntöjen mukainen!**
-Sisältää taivutusmuotoja: {{< spoiler >}}genetiivi, akkusatiivi ja potentiaali{{< /spoiler >}}
+Sisältää taivutusmuotoja: {% spoiler() %}genetiivi, akkusatiivi ja potentiaali{% end %}
 
 [Vinkkejä + ratkaisu](@/piilosanat/ratkotaan/2.md)
 
