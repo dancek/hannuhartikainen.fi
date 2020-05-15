@@ -1,4 +1,10 @@
-pre { font-size: 80%; }
+.spoiler {
+  color: transparent;
+
+  &:hover {
+    color: inherit;
+  }
+}
 
 .hints li[hide] {
   visibility: hidden;
@@ -16,11 +22,4 @@ pre { font-size: 80%; }
   .hints .hint-heading {
     display: flex;
   }
-}
-
-.spoiler {
-  color: transparent;
-}
-.spoiler:hover {
-  color: inherit;
 }
