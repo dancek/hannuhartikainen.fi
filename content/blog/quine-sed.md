@@ -41,4 +41,5 @@ echo "s/\\\\/&&&&/g;s/\"/\\\\&/g;s/.*/echo \"&\" | sed \"&\"/" | sed "s/\\\\/&&&
 ```
 
 [^1]: Example: `I canot spell` -> `s/n/nn/`
+
 [^2]: I tried with bash, too. It works with `echo "s/\\\\/&&/g;s/\"/\\\\&/g;s/.*/echo \"&\" | sed \"&\"/" | sed "s/\\\\/&&/g;s/\"/\\\\&/g;s/.*/echo \"&\" | sed \"&\"/"`. There's probably some escaping setting that affects this but I didn't take the time to find it.

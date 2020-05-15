@@ -1,0 +1,15 @@
+.footnote-definition {
+  display: flex;
+  line-height: 1.2;
+  > p {
+    margin: 0 0 0 0.3rem;
+  }
+
+  margin-top: 2.5rem;
+  border-top: 1px solid var(--fg);
+  padding-top: 0.3rem;
+  & ~ & {
+    margin-top: 0;
+    border-top: none;
+  }
+}
