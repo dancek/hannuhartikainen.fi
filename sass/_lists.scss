@@ -1,10 +1,16 @@
 .page-list {
   list-style-type: none;
   padding: 0;
+  line-height: 1.2;
+
   > li {
+    display: flex;
+    margin-bottom: 0.5em;
     > .date {
-      display: inline-block;
       min-width: 6em;
+    }
+    > a {
+      flex-grow: 1;
     }
   }
 }
