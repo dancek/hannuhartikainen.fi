@@ -8,6 +8,6 @@
 <h1 class="title">
   {{ page.title }}
 </h1>
-<p class="subtitle"><strong>{{ page.date | date }}</strong></p>
-<p>{{ page.content | safe }}</p>
+<p class="subtitle">{{ page.date | date }} / {{ page.reading_time }} mins read</p>
+{{ page.content | safe }}
 {% endblock content %}

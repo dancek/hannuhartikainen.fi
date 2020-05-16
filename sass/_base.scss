@@ -42,3 +42,13 @@ a {
     text-decoration: underline;
   }
 }
+
+.title {
+  margin-bottom: 0;
+  border-bottom: 1px solid var(--fg);
+  line-height: 1.2;
+}
+.subtitle {
+  margin-top: 0;
+  font-size: 85%;
+}
