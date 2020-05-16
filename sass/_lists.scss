@@ -1,0 +1,10 @@
+.page-list {
+  list-style-type: none;
+  padding: 0;
+  > li {
+    > .date {
+      display: inline-block;
+      min-width: 6em;
+    }
+  }
+}

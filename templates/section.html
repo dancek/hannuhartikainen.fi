@@ -9,9 +9,9 @@
 {{ section.content | safe }}
 </article>
 
-<ul>
+<ul class="page-list">
   {% for page in section.pages %}
-  <li><a href="{{ page.permalink | safe }}">{{ page.date | date }} {{ page.title }}</a></li>
+  <li><span class="date">{{ page.date | date }}</span><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
   {% endfor %}
 </ul>
 {% endblock content %}

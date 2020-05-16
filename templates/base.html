@@ -8,7 +8,7 @@
 </head>
 
 <body>
-  <header>
+  <header id="header">
     Hannu Hartikainen's website
     <nav>
       <a href="{{ config.base_url }}">Home</a>
@@ -20,7 +20,7 @@
   <section class="content">
     {% block content %}{% endblock %}
   </section>
-  <footer>
+  <footer id="footer">
     &copy; Hannu Hartikainen 2018–{{ now() | date(format="%Y") }}
   </footer>
 </body>

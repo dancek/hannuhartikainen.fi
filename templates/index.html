@@ -5,10 +5,10 @@
   {{ section.content | safe }}
 </article>
 
-<ul>
+<ul class="page-list">
   {% set blog = get_section(path="blog/_index.md") %}
   {% for page in blog.pages %}
-  <li>{{ page.date | date }} <a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  <li><span class="date">{{ page.date | date }}</span><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
   {% endfor %}
 </ul>
 {% endblock content %}
