@@ -1,6 +1,11 @@
----
-title: "Working on switching to Zola"
-date: 2020-05-12T23:23:54+03:00
++++
+title = "(Working on) switching to Zola"
+date = 2020-05-12T23:23:54+03:00
++++
+
+**EDIT 2020-05-16:**  
+I implemented the most important stuff (content conversion, templates, styles, shortcodes) and am switching the site to Zola today. The site is much better now. There's no JS at all except on pages that actually use it (in the [Piilosanat](@/piilosanat/_index.md) section, hints and the web crossword). The CSS weighs some 1.5KB yet the site looks better now IMHO, supports dark mode, and is completely responsive.
+
 ---
 
 Last week, I read [0x10 rules by Fabien Sanglard](https://fabiensanglard.net/ilike/index.html) and it reminded me of a bunch of things I dislike about my website.
