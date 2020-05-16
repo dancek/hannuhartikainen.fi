@@ -3,17 +3,17 @@
 <head>
   <meta charset="utf-8">
   <title>{% block title %}Hannu Hartikainen{% endblock %}</title>
-  <link rel="stylesheet" href="{{ get_url(path="style.css") }}"/>
-  <link rel="icon" href="{{ get_url(path="favicon.ico") }}">
+  <link rel="stylesheet" href="{{ get_url(path="style.css", cachebust=true) | safe }}"/>
+  <link rel="icon" href="{{ get_url(path="favicon.ico") | safe }}">
 </head>
 
 <body>
   <header id="header">
     Hannu Hartikainen's website
     <nav>
-      <a href="{{ config.base_url }}">Home</a>
-      <a href="{{ get_url(path="@/floss.md") }}">FLOSS</a>
-      <a href="{{ get_url(path="@/piilosanat/_index.md") }}">Piilosanat</a>
+      <a href="{{ config.base_url | safe }}">Home</a>
+      <a href="{{ get_url(path="@/floss.md") | safe }}">FLOSS</a>
+      <a href="{{ get_url(path="@/piilosanat/_index.md") | safe }}">Piilosanat</a>
       <a href="https://github.com/dancek/hannuhartikainen.fi">Repo</a>
     </nav>
   </header>
