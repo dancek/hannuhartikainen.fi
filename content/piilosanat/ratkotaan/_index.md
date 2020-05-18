@@ -1,6 +1,7 @@
 +++
 title = "Ratkotaan piilosanoja!"
 lang = "fi"
+sort_by = "date"
 tags = ["piilosana"]
 +++
 

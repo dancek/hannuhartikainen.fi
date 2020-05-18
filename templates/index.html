@@ -5,10 +5,7 @@
   {{ section.content | safe }}
 </article>
 
-<ul class="page-list">
-  {% set blog = get_section(path="blog/_index.md") %}
-  {% for page in blog.pages %}
-  <li><div class="date">{{ page.date | date }}</div><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-  {% endfor %}
-</ul>
+{% set section = get_section(path="blog/_index.md") %}
+{% include "page-list.html" %}
+
 {% endblock content %}

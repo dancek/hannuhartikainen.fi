@@ -1,6 +1,7 @@
 +++
 title = "Piilosanat"
 lang = "fi"
+sort_by = "date"
 tags = ["piilosana"]
 +++
 
