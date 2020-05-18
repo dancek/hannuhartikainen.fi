@@ -1,10 +1,12 @@
 +++
 title = "Piilosanaverkkoratkaisin"
-date = 2020-05-08T22:27:54+03:00
 +++
 <style>
   body {
     max-width: initial;
+  }
+  #piilosana {
+    margin: 1rem 0;
   }
 </style>
 

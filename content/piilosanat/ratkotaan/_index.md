@@ -1,6 +1,5 @@
 +++
 title = "Ratkotaan piilosanoja!"
-date = 2020-02-12T12:00:00+02:00
 lang = "fi"
 tags = ["piilosana"]
 +++

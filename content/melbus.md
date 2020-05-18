@@ -1,6 +1,5 @@
 +++
 title = "Volvo HU-803 and the MELBUS protocol"
-date = 2018-08-05T19:49:52+03:00
 +++
 
 I've made two CD-changer emulator / AUX cables for the Volvo HU car audio systems. The build is pretty much as described in [Gizmosnack's blog](http://gizmosnack.blogspot.com/2015/11/aux-in-volvo-hu-xxxx-radio.html).
