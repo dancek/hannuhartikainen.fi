@@ -1,5 +1,11 @@
 {% extends "base.html" %}
 
+{% block lang %}
+{% if page.extra.lang %}
+{{ page.extra.lang }}
+{% endif %}
+{% endblock lang %}
+
 {% block title -%}
 {{ page.title }} – Hannu Hartikainen
 {%- endblock title %}
