@@ -1,8 +1,10 @@
 +++
 title = "Ratkotaan piilosanoja!"
-lang = "fi"
 sort_by = "date"
 tags = ["piilosana"]
+
+[extra]
+lang = "fi"
 +++
 
 Piilosanat ovat useimmille tuntemattomia ja hämmentäviä. Vihjeissä ei tunnu olevan päätä eikä häntää. Kuitenkin alkuun pääsyn jälkeen tehtävät vievät mennessään, ja ainakin minusta ovat huomattavasti tavallisia kuvaristikoita kiinnostavampia.

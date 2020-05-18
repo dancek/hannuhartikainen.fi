@@ -1,8 +1,10 @@
 +++
 title = "Piilosanat"
-lang = "fi"
 sort_by = "date"
 tags = ["piilosana"]
+
+[extra]
+lang = "fi"
 +++
 
 **Briefly in English:** This page contains Finnish cryptic crosswords I've constructed and tools useful for working with crosswords in Finnish.
