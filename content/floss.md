@@ -5,8 +5,8 @@ tags = ["FLOSS"]
 
 ## My own (notable) FLOSS projects
 
-1. https://gitlab.com/code-stats/code-stats-vim
-1. https://gitlab.com/code-stats/code-stats-zsh
+1. [code-stats-vim](https://gitlab.com/code-stats/code-stats-vim)
+1. [code-stats-zsh](https://gitlab.com/code-stats/code-stats-zsh)
 
 ## My commits to other people's FLOSS projects
 
