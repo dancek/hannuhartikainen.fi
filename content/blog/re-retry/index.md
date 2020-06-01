@@ -5,8 +5,10 @@ summary = "Announcing re-RETRY, a modded version of RETRY (that you have to buil
 tags = ["RETRY", "reverse engineering", "Android"]
 +++
 
-**UPDATE 2020-02-12:** RETRY was re-published in January 2020 as [
-Fail Plane - 2D Arcade Fun](https://play.google.com/store/apps/details?id=com.darkmatter.retry). Please go download it and buy "remove ads" for 3,99€!
+**UPDATE 2020-02-12:** RETRY was re-published in January 2020 as
+*Fail Plane - 2D Arcade Fun* (`com.darkmatter.retry`). Please go download it and buy "remove ads" for 3,99€!
+
+**UPDATE 2020-06-01:** The re-published version has been removed or hidden again...
 
 +++
 

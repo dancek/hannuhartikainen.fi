@@ -13,7 +13,7 @@ Piilosanat ovat useimmille tuntemattomia ja hämmentäviä. Vihjeissä ei tunnu 
 
 ## Yleistä
 
-Käytän vihjetyypeistä samaa nimistöä kuin [Pertti Oskalan kirjoittamassa ratkontaohjeessa](https://sanojensommittelua.net/piilosanan-ratkontaohje/) (joka kannattaa lukea).
+Käytän vihjetyypeistä samaa nimistöä kuin [Pertti Oskalan kirjoittamassa ratkontaohjeessa](https://sanojensommittelua.wordpress.com/piilosanan-ratkontaohje/) (joka kannattaa lukea).
 
 Jokaisessa vihjeessä on kaksi tapaa löytää ratkaisu. Tyypillisesti ne ovat "suora" merkitysvihje ja sanaleikki (useimmin kätkö, anagrammi tai jaotelma). Kokeneet laatijat toki keksivät välillä muutakin ratkojan pään menoksi. Kokemattomat (kuten allekirjoittanut) pitäytyvät perustyypeistä.
 

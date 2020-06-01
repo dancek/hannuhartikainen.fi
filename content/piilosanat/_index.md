@@ -64,13 +64,13 @@ Ensimmäinen laatimani piilosana. Otin mielestäni mahdollisimman esteettisen kl
 
 Vapaasti ladattavia piilosanoja muualla:
 
-- [Sanojen sommittelua -blogi](https://sanojensommittelua.net/). 28 kappaletta Pertti Oskalan laatimia piilosanoja pdf-muodossa.
+- [Sanojen sommittelua -blogi](https://sanojensommittelua.wordpress.com/). 28 kappaletta Pertti Oskalan laatimia piilosanoja pdf-muodossa.
 - [Ristikkoarkisto](http://sanaristikot.net/ristikot/?p=arkisto). 29 Sanaris Oy:n julkaisemaa piilosanaa. Mahdollisuus ratkaista selaimessa.
 
 Opastusta ratkomiseen:
 
 - [Sanaristikkofoorumin vihjeanalyyseja](https://www.sanaristikkofoorumi.net/wordpress/ristikot/vihjeanalyysit/), joissa käydään läpi kokonaisia tehtäviä hieman samaan tapaan kuin omassa ratkontaosiossani. Enemmän kuvaristikoita, mutta myös piilosanoja.
-- [Piilosanan ratkontaohje](https://sanojensommittelua.net/piilosanan-ratkontaohje/), kirjoittanut laatijakonkari Pertti Oskala.
+- [Piilosanan ratkontaohje](https://sanojensommittelua.wordpress.com/piilosanan-ratkontaohje/), kirjoittanut laatijakonkari Pertti Oskala.
 
 .puz-tiedostojen ratkomiseen toimivia sovelluksia:
 

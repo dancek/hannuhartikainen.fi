@@ -6,7 +6,7 @@ tags = ["maintenance"]
 
 It's the non-slippery time of the year: the last snow we had was three weeks ago! That means summer tires. And to use them you need to change them.
 
-I was going to just quickly blog about having changed tires. That was over two weeks ago. Since then I've been quite busy and tired (pun!). And it turns out [my blog system]({{ relref "website-setup.md" }}) didn't do image embeds the way I like them[^1] so I [rolled my own](https://github.com/dancek/hannuhartikainen.fi/blob/master/layouts/shortcodes/image.html). But I'm being tiresome (another pun![^2]).
+I was going to just quickly blog about having changed tires. That was over two weeks ago. Since then I've been quite busy and tired (pun!). And it turns out [my blog system]({{ relref "website-setup.md" }}) didn't do image embeds the way I like them[^1] so I [rolled my own](https://github.com/dancek/hannuhartikainen.fi/blob/old-hugo/layouts/shortcodes/image.html). But I'm being tiresome (another pun![^2]).
 
 ## Changing tires
 

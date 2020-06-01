@@ -10,8 +10,9 @@ tags = ["RETRY", "Android", "bsdiff"]
 
 ## Breaking news: RETRY is live again!
 
-Turns out RETRY was re-published in January 2020 as [
-Fail Plane - 2D Arcade Fun](https://play.google.com/store/apps/details?id=com.darkmatter.retry). Please go download it, buy "remove ads" for 3,99€ and forget about re-RETRY! I'm leaving the blog post and repo as-is for educational purposes. I believe their content does not infringe copyright per se, but now that the game is available running a patched game in order to spare 4 euros is obviously immoral. Please support the developer and spend that money.
+**UPDATE 2020-06-01:** The re-published version has been removed. Oh well.
+
+Turns out RETRY was re-published in January 2020 as *Fail Plane - 2D Arcade Fun* (`com.darkmatter.retry`). Please go download it, buy "remove ads" for 3,99€ and forget about re-RETRY! I'm leaving the blog post and repo as-is for educational purposes. I believe their content does not infringe copyright per se, but now that the game is available running a patched game in order to spare 4 euros is obviously immoral. Please support the developer and spend that money.
 
 This news makes publishing this blog post easier as I won't actually share the patch nor provide instructions. :) I wrote the post already in October but was too uncertain about publishing the patch so I never did.
 

@@ -22,7 +22,7 @@ Third, my RSS feed doesn't provide full article content. Yet another chore to fi
 
 Now, my experience with Hugo has been good. I would recommend it to someone looking for a static site generator with a nice ecosystem (themes, support). But I like trying new stuff and [Zola](https://getzola.org/) looked better. And it's based on markdown, too, so I'd basically just need to write my templates and reimplement my custom Hugo stuff.
 
-So behold the upcoming incarnation of my website at [zola.hannuhartikainen.fi](https://zola.hannuhartikainen.fi/) (that isn't much to behold)!
+So behold the upcoming incarnation of my website at [EDIT: this page is now built with Zola] (that isn't much to behold)!
 
 The basics are there. I'll probably continue to work on the missing stuff and eventually switch the main site over. Who knows. I've had false starts before.
 

@@ -11,7 +11,7 @@ Turns out that HU-803 doesn't support SAT (later versions like HU-650 and HU-850
 So I have a couple of things I might hack on and write about:
 
 - The MD-CHGR protocol. Probably very difficult without hardware supporting the protocol.
-- A reimplementation on better hardware (say, an ARM board like the [Blue Pill](http://wiki.stm32duino.com/index.php?title=Blue_Pill) or ESP32 for bluetooth support), maybe in Rust.
+- A reimplementation on better hardware (say, an ARM board like the [Blue Pill](https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html) or ESP32 for bluetooth support), maybe in Rust.
 - The minor things I did differently that made the second cable i made better than the first one.
 
 But for now, this page is mostly a placeholder. It has to exist because I've written the URL in places. :D
