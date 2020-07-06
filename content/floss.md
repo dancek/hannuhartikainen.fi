@@ -7,6 +7,7 @@ tags = ["FLOSS"]
 
 1. [code-stats-vim](https://gitlab.com/code-stats/code-stats-vim)
 1. [code-stats-zsh](https://gitlab.com/code-stats/code-stats-zsh)
+1. [twinwiki](https://sr.ht/~dancek/twinwiki/)
 
 ## My commits to other people's FLOSS projects
 
@@ -22,6 +23,7 @@ In alphabetical order.
 1. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/commits?author=dancek)
 1. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core/commits?author=dancek)
 1. [imazen/slimmage](https://github.com/imazen/slimmage/commits?author=dancek)
+1. [int80h/gemserv](https://git.sr.ht/~int80h/gemserv)
 1. [jmesmon/illum](https://github.com/jmesmon/illum/commits?author=dancek)
 1. [MariaDB/server](https://github.com/MariaDB/server/commits/5.5?author=dancek)
 1. [metosin/reitit](https://github.com/metosin/reitit/commits?author=dancek)
