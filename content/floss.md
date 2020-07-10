@@ -25,6 +25,7 @@ In alphabetical order.
 1. [imazen/slimmage](https://github.com/imazen/slimmage/commits?author=dancek)
 1. [int80h/gemserv](https://git.sr.ht/~int80h/gemserv)
 1. [jmesmon/illum](https://github.com/jmesmon/illum/commits?author=dancek)
+1. [makeworld-the-better-one/go-gemini](https://github.com/makeworld-the-better-one/go-gemini/commits?author=dancek)
 1. [MariaDB/server](https://github.com/MariaDB/server/commits/5.5?author=dancek)
 1. [metosin/reitit](https://github.com/metosin/reitit/commits?author=dancek)
 1. [neovim/neovim](https://github.com/neovim/neovim/commits/master?author=dancek)
