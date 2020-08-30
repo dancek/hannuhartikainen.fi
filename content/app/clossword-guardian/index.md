@@ -7,12 +7,13 @@ title = "Piilosanaverkkoratkaisin"
   }
   #piilosana {
     margin: 1rem 0;
+    overflow: auto;
   }
 </style>
 
 <div id="piilosana"></div>
 
-<script src="clossword-guardian.3B1AE305B730B8448C8F4CAE71D41B47.js"></script>
+<script src="clossword-guardian.1C474B877D44F2CED466619E39225E70.js"></script>
 <script>
 {
   let search = location.search.substring(1)

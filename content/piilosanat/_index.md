@@ -19,6 +19,12 @@ lang = "fi"
 
 Uusin ylimpänä. Palaute tervetullutta!
 
+### Piilosana 2020-08-25 {{ xw_links(id="piilosana_2020-08-25") }}
+
+[Vinkkejä + ratkaisu](@/piilosanat/ratkotaan/5.md)
+
+Pieni tehtävä, joka saattaa olla poikkeuksellisen vaikea. Olen tyytyväinen vihjeisiin.
+
 ### Pääsiäispiilosana 2020-04-11 {{ xw_links(id="pääsiäispiilosana_2020-04-11") }}
 
 [Vinkkejä + ratkaisu](@/piilosanat/ratkotaan/4.md)
