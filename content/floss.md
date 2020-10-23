@@ -22,6 +22,7 @@ In alphabetical order.
 1. [highcharts/highcharts](https://github.com/highcharts/highcharts/commits?author=dancek)
 1. [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask/commits?author=dancek)
 1. [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core/commits?author=dancek)
+1. [greshake/i3status-rust](https://github.com/greshake/i3status-rust/commits?author=dancek)
 1. [imazen/slimmage](https://github.com/imazen/slimmage/commits?author=dancek)
 1. [int80h/gemserv](https://git.sr.ht/~int80h/gemserv)
 1. [jmesmon/illum](https://github.com/jmesmon/illum/commits?author=dancek)
