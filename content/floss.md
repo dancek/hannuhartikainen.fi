@@ -44,6 +44,7 @@ In alphabetical order.
 1. [solderpunk/AV-98](https://tildegit.org/solderpunk/AV-98/commits/branch/master/search?q=author%3Ahannu.hartikainen%40gmail.com)
 1. [technomancy/leiningen](https://github.com/technomancy/leiningen/commits/master?author=dancek)
 1. [tldr-pages/tldr](https://github.com/tldr-pages/tldr/commits?author=dancek)
+1. [tldr-pages/tldr-lint](https://github.com/tldr-pages/tldr-lint/commits?author=dancek)
 1. [twbs/bootstrap](https://github.com/twbs/bootstrap/commits?author=dancek)
 1. [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl/commits?author=dancek)
 1. [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions/commits?author=dancek)
