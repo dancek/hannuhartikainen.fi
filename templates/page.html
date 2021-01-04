@@ -20,18 +20,6 @@
 
 {{ page.content | safe }}
 
-<footer>
-  <code>[opt-in]</code><br>
-  <opt-in-script src="https://utteranc.es/client.js"
-                 crossorigin="anonymous"
-                 repo="dancek/hannuhartikainen.fi"
-                 theme="preferred-color-scheme"
-                 issue-term="pathname">
-    <button>Show comments</button>
-    (Note: this will load an external script from
-    <a href="https://utteranc.es">utteranc.es</a>
-    and make requests to the Github API.)
-  </opt-in-script>
-</footer>
+{% block content_footer %}{% endblock %}
 <script src="{{ get_url(path="/js/opt-in-script.js") }}"></script>
 {% endblock content %}

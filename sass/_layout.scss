@@ -14,9 +14,14 @@ body {
 }
 
 #footer {
-  margin-top: 3rem;
+  margin-top: 2rem;
+  text-align: center;
 }
 
 section > footer {
-  margin-top: 3rem;
+  margin-top: 2.5rem;
+  border-top: 1px dotted var(--fg);
+  padding-top: 0.5rem;
+  font-size: 80%;
+  text-align: center;
 }

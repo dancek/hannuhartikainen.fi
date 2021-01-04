@@ -1,0 +1,16 @@
+{% extends "page.html" %}
+
+{% block content_footer %}
+<footer>
+  <opt-in-script src="https://utteranc.es/client.js"
+                 crossorigin="anonymous"
+                 repo="dancek/hannuhartikainen.fi"
+                 theme="preferred-color-scheme"
+                 issue-term="pathname">
+    <button>Show comments</button><br>
+    (Note: this will load an external script from
+    <a href="https://utteranc.es">utteranc.es</a>
+    and make requests to the Github API.)
+  </opt-in-script>
+</footer>
+{% endblock %}
