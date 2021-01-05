@@ -7,28 +7,23 @@ tags = ["piilosana"]
 lang = "fi"
 +++
 
-**Briefly in English:** This page contains Finnish cryptic crosswords I've constructed and tools useful for working with crosswords in Finnish.
+<small>This page contains Finnish cryptic crosswords I've constructed and tools useful for working with crosswords in Finnish.</small>
 
 <!--more-->
 
-## Piilosanojen ratkomisesta
+## Laatimiani piilosanatehtäviä
 
-[Ratkotaan piilosanoja!](@/piilosanat/ratkotaan/_index.md)
+Jos haluat kuulla uusista tehtävistä, liity sähköpostilistalle lähettämällä viesti osoitteeseen [~hannu/piilosanat+subscribe@lists.sr.ht](mailto:~hannu/piilosanat+subscribe@lists.sr.ht).
 
-## Laatimani piilosanatehtävät
-
-Uusin ylimpänä. Palaute tervetullutta!
-
+- [Piilosana 2021-01-04](@/piilosanat/ratkotaan/7.md)
 - [Piilosana 2020-09-10](@/piilosanat/ratkotaan/6.md)
 - [Piilosana 2020-08-25](@/piilosanat/ratkotaan/5.md)
 - [Pääsiäispiilosana 2020-04-11](@/piilosanat/ratkotaan/4.md)
 - [Piilosana 2020-02-16](@/piilosanat/ratkotaan/3.md)
 
-Ja alkuvaiheen heikkotasoiset rävellykset:
+## Piilosanojen ratkomisesta
 
-- [Piilosana 2020-02-04](@/piilosanat/ratkotaan/2.md) (**Varoitus: tehtävä ei ole sääntöjen mukainen!**
-Sisältää taivutusmuotoja: {% spoiler() %}genetiivi, akkusatiivi ja potentiaali{% end %})
-- [Piilosana 2020-01-23](@/piilosanat/ratkotaan/1.md)
+[Ratkotaan piilosanoja!](@/piilosanat/ratkotaan/_index.md)
 
 ## Kehittämäni työkalut
 
@@ -49,10 +44,3 @@ Opastusta ratkomiseen:
 
 - [Sanaristikkofoorumin vihjeanalyyseja](https://www.sanaristikkofoorumi.net/wordpress/ristikot/vihjeanalyysit/), joissa käydään läpi kokonaisia tehtäviä hieman samaan tapaan kuin omassa ratkontaosiossani. Enemmän kuvaristikoita, mutta myös piilosanoja.
 - [Piilosanan ratkontaohje](https://sanojensommittelua.wordpress.com/piilosanan-ratkontaohje/), kirjoittanut laatijakonkari Pertti Oskala.
-
-.puz-tiedostojen ratkomiseen toimivia sovelluksia:
-
- - Android: [alphacross](https://play.google.com/store/apps/details?id=org.akop.crosswords), jolla pääsee tekemään myös jenkkilehtien ristikoita ilmaiseksi. Kannattaa laittaa asetuksista päälle sanojen pituus vihjeen perässä. Sovellus osaa tarkistaa ratkaisun.
- - Linux/macOS/Windows: [cursewords](https://github.com/thisisparker/cursewords). Toimii terminaalissa, vaatii Python 3:n.
- - Web: [HTML5 Across Lite Reader](http://derekslager.com/puz/) ([github](https://github.com/derekslager/xwordhtml)). Ei enää moderni, mutta toimii. Olisi kätevää upottaa joku vastaava suoraan tälle sivulle, mutta en ole nähnyt suoraan soveltuvaa.
-
