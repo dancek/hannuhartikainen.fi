@@ -20,7 +20,6 @@ title = "Piilosanaverkkoratkaisin"
   if (/^xw=[^&]+$/.test(search)) {
     let uri = decodeURIComponent(search.substring(3))
     let id = uri.split('/').pop();
-    console.log(id);
     fetch(uri)
       .then(response => response.json())
       .then(xw => clossword.guardian.render_xw(
