@@ -15,6 +15,7 @@ In alphabetical order.
 
 1. [anders/pwgen](https://github.com/anders/pwgen/commits?author=dancek)
 1. [bayespy/bayespy](https://github.com/bayespy/bayespy/commits?author=dancek)
+1. [bitwarden/cli](https://github.com/bitwarden/cli/commits?author=dancek)
 1. [code-stats/code-stats](https://gitlab.com/code-stats/code-stats/commit/cd7b716c4d3aa7ba08133988e5e4acc041be3cba)
 1. [Detegr/rust-ctrlc](https://github.com/Detegr/rust-ctrlc/commits?author=dancek)
 1. [getzola/zola](https://github.com/getzola/zola/commits?author=dancek)
