@@ -27,7 +27,7 @@ In alphabetical order.
 1. [imazen/slimmage](https://github.com/imazen/slimmage/commits?author=dancek)
 1. [int80h/gemserv](https://git.sr.ht/~int80h/gemserv/log)
 1. [jmesmon/illum](https://github.com/jmesmon/illum/commits?author=dancek)
-1. [Linux](https://linux-commits-search.typesense.org/?commits%5BrefinementList%5D%5Bauthor_name%5D%5B0%5D=Hannu%20Hartikainen)
+1. [Linux](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=Hannu+Hartikainen)
 1. [makeworld-the-better-one/go-gemini](https://github.com/makeworld-the-better-one/go-gemini/commits?author=dancek)
 1. [MariaDB/server](https://github.com/MariaDB/server/commits?author=dancek)
 1. [metosin/reitit](https://github.com/metosin/reitit/commits?author=dancek)
