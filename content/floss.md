@@ -33,6 +33,7 @@ In alphabetical order.
 1. [illum](https://github.com/jmesmon/illum/commits?author=dancek). Backlight manager. C.
 1. [Leiningen](https://github.com/technomancy/leiningen/commits/master?author=dancek). Build tool. Clojure.
 1. [Linux](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=Hannu+Hartikainen). **The** operating system. C.
+1. [Linux Kernel Module Programming Guide](https://github.com/sysprog21/lkmpg/commits?author=dancek). Book. TeX.
 1. [MariaDB](https://github.com/MariaDB/server/commits?author=dancek). Database server. C.
 1. [Neovim](https://github.com/neovim/neovim/commits/master?author=dancek). **The** text editor. C.
 1. [nixos-hardware](https://github.com/NixOS/nixos-hardware/commits?author=dancek). Hardware profiles. Nix.
