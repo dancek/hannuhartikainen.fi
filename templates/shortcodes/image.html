@@ -1,18 +1,18 @@
 {% set meta = get_image_metadata(path=path) %}
 {% set width = 800 %}
 {% set sm_width = 440 %}
-{% set lg_path = resize_image(path=path, width=2*width, op="fit_width", quality=60) %}
-{% set md_path = resize_image(path=path, width=width, op="fit_width") %}
-{% set sm_path = resize_image(path=path, width=sm_width, op="fit_width") %}
+{% set lg = resize_image(path=path, width=2*width, op="fit_width", quality=60) %}
+{% set md = resize_image(path=path, width=width, op="fit_width") %}
+{% set sm = resize_image(path=path, width=sm_width, op="fit_width") %}
 
 <figure>
-  <a href="{{ lg_path }}">
-    <img src="{{ md_path }}"
+  <a href="{{ lg.url }}">
+    <img src="{{ md.url }}"
         width="{{ width }}"
         height="{{ width * meta.height / meta.width | round }}"
-        srcset="{{ lg_path }} {{ 2*width }}w,
-                {{ md_path }} {{ width }}w,
-                {{ sm_path }} {{ sm_width }}w"
+        srcset="{{ lg.url }} {{ 2*width }}w,
+                {{ md.url }} {{ width }}w,
+                {{ sm.url }} {{ sm_width }}w"
         sizes="(min-width: {{ width }}px) {{ width }}px,
                 calc(100vw - 20px)"
         alt="{{ title }}"
