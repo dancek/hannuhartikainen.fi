@@ -29,7 +29,6 @@ tags = ["FLOSS"]
 1. [clj-kondo](https://github.com/clj-kondo/clj-kondo/commits?author=dancek). Linter. Clojure.
 1. [Code::Stats](https://gitlab.com/code-stats/code-stats/-/commits/master?author=Hannu%20Hartikainen). Keystroke tracking service. Elixir.
 1. [Drawbridge](https://github.com/nrepl/drawbridge/commits?author=dancek). HTTP transport for nREPL. Clojure.
-1. [gameboy-rs](https://github.com/Detegr/gameboy-rs/commits?author=dancek). Gameboy emulator. Rust.
 1. [gemserv](https://git.sr.ht/~int80h/gemserv/log). Gemini server. Rust.
 1. [git-review](https://review.opendev.org/#/q/owner:%22Hannu+Hartikainen%22). Git subcommand for Gerrit. Python.
 1. [Glowing Bear](https://github.com/glowing-bear/glowing-bear/commits?author=dancek). Web client for WeeChat. JavaScript.
@@ -39,7 +38,6 @@ tags = ["FLOSS"]
 1. [i3status-rust](https://github.com/greshake/i3status-rust/commits?author=dancek). Status bar. Rust.
 1. [Leiningen](https://github.com/technomancy/leiningen/commits/master?author=dancek). Build tool. Clojure.
 1. [Linux](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=Hannu+Hartikainen). **The** operating system. C.
-1. [Linux Kernel Module Programming Guide](https://github.com/sysprog21/lkmpg/commits?author=dancek). Book. TeX.
 1. [Neovim](https://github.com/neovim/neovim/commits/master?author=dancek). **The** text editor. C.
 1. [opendota-core](https://github.com/odota/core/commits?author=dancek). Game data platform. JavaScript.
 1. [Point Cloud Library](https://github.com/PointCloudLibrary/pcl/commit/e03532a23362e097fa286e4dda64d3425c6bc8bf). C++.
@@ -50,7 +48,6 @@ tags = ["FLOSS"]
 1. [Ultra fast anagram generator](https://github.com/sliedes/ufag/commits?author=dancek). C++.
 1. [velo-backend](https://github.com/sjappig/velo-backend/commits?author=dancek). Statistics backend. Rust.
 1. [youtube-dl](https://github.com/ytdl-org/youtube-dl/commits?author=dancek). Video downloader. Python.
-1. [Zig](https://github.com/zig-lang/zig/commits?author=dancek). Programming language. Zig.
 1. [zola](https://github.com/getzola/zola/commits?author=dancek). Static site generator. Rust.
 1. [zsh-completions](https://github.com/zsh-users/zsh-completions/commits?author=dancek). Completion scripts. Zsh.
 
@@ -62,6 +59,8 @@ tags = ["FLOSS"]
 1. [Homebrew Cask](https://github.com/Homebrew/homebrew-cask/commits?author=dancek). Package definitions. DSL.
 1. [Homebrew Core](https://github.com/Homebrew/homebrew-core/commits?author=dancek). Package definitions. DSL.
 1. [illum](https://github.com/jmesmon/illum/commits?author=dancek). Backlight manager. C.
+1. [gameboy-rs](https://github.com/Detegr/gameboy-rs/commits?author=dancek). Gameboy emulator. Rust.
+1. [Linux Kernel Module Programming Guide](https://github.com/sysprog21/lkmpg/commits?author=dancek). Book. TeX.
 1. [MariaDB](https://github.com/MariaDB/server/commits?author=dancek). Database server. C.
 1. [nixos-hardware](https://github.com/NixOS/nixos-hardware/commits?author=dancek). Hardware profiles. Nix.
 1. [Nixpkgs](https://github.com/NixOS/nixpkgs/commits?author=dancek). Package definitions. Nix.
@@ -69,6 +68,7 @@ tags = ["FLOSS"]
 1. [tldr](https://github.com/tldr-pages/tldr/commits?author=dancek). Documentation pages.
 1. [Ultimate Hacking Keyboard firmware](https://github.com/UltimateHackingKeyboard/firmware/commits?author=dancek). C.
 1. [zsh-vim-mode](https://github.com/softmoth/zsh-vim-mode/commits?author=dancek). Zsh.
+1. [Zig](https://github.com/zig-lang/zig/commits?author=dancek). Programming language. Zig.
 
 ### Unmerged contributions
 
