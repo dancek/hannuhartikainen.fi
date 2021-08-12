@@ -1,0 +1,79 @@
+commit 77167b966b7e671d8ab308b1e31ebfed97986402
+Author: Hannu Hartikainen <hannu@hrtk.in>
+Date:   Wed Jul 7 16:36:35 2021 +0300
+
+    docs: submitting-patches: clarify the role of LKML
+    
+    The documentation previously stated that LKML should be used as *last
+    resort*. However, scripts/get_maintainer.pl always suggests it and in a
+    discussion about changing that[0] it turned out that LKML should in fact
+    receive all patches.
+    
+    Update documentation to make it clear that all patches should be sent to
+    LKML by default, in addition to any subsystem-specific lists.
+    
+    [0]: https://lore.kernel.org/lkml/19a701a8d5837088aa7d8ba594c228c0e040e747.camel@perches.com/
+    
+    Signed-off-by: Hannu Hartikainen <hannu@hrtk.in>
+    Link: https://lore.kernel.org/r/20210707133634.286840-1-hannu@hrtk.in
+    Signed-off-by: Jonathan Corbet <corbet@lwn.net>
+
+commit f3f1017a98f91355671feb0e741391999a43b55d
+Author: Hannu Hartikainen <hannu@hrtk.in>
+Date:   Thu Jul 8 18:20:54 2021 +0300
+
+    docs: gpio: explain GPIOD_OUT_* values and toggling active low
+    
+    I was confused about the gpiod_flags values and thought that
+    GPIOD_OUT_LOW and GPIOD_OUT_HIGH set the line to be active low / active
+    high. This is not true, but I got the misconception because the flags
+    GPIOD_OUT_*_OPEN_DRAIN do change line configuration and there's a
+    subchapter about *active low* and *open drain* semantics.
+    
+    Add an explicit mention that the initial value is a logical value (and
+    not the line configuration or physical line level). Also add a mention
+    of the function gpiod_toggle_active_low which was previously missing
+    from this document.
+    
+    Signed-off-by: Hannu Hartikainen <hannu@hrtk.in>
+    Signed-off-by: Bartosz Golaszewski <bgolaszewski@baylibre.com>
+
+commit 7e77ef8b8d600cf8448a2bbd32f682c28884551f
+Author: Antti Keränen <detegr@rbx.email>
+Date:   Thu Jul 8 12:54:29 2021 +0300
+
+    iio: adis: set GPIO reset pin direction
+    
+    Set reset pin direction to output as the reset pin needs to be an active
+    low output pin.
+    
+    Co-developed-by: Hannu Hartikainen <hannu@hrtk.in>
+    Signed-off-by: Hannu Hartikainen <hannu@hrtk.in>
+    Signed-off-by: Antti Keränen <detegr@rbx.email>
+    Reviewed-by: Nuno Sá <nuno.sa@analog.com>
+    Fixes: ecb010d44108 ("iio: imu: adis: Refactor adis_initial_startup")
+    Link: https://lore.kernel.org/r/20210708095425.13295-1-detegr@rbx.email
+    Cc: <Stable@vger.kernel.org>
+    Signed-off-by: Jonathan Cameron <Jonathan.Cameron@huawei.com>
+
+commit 4897807753e078655a78de39ed76044d784f3e63
+Author: Hannu Hartikainen <hannu@hrtk.in>
+Date:   Tue Jun 22 17:14:54 2021 +0300
+
+    USB: cdc-acm: blacklist Heimann USB Appset device
+    
+    The device (32a7:0000 Heimann Sensor GmbH USB appset demo) claims to be
+    a CDC-ACM device in its descriptors but in fact is not. If it is run
+    with echo disabled it returns garbled data, probably due to something
+    that happens in the TTY layer. And when run with echo enabled (the
+    default), it will mess up the calibration data of the sensor the first
+    time any data is sent to the device.
+    
+    In short, I had a bad time after connecting the sensor and trying to get
+    it to work. I hope blacklisting it in the cdc-acm driver will save
+    someone else a bit of trouble.
+    
+    Signed-off-by: Hannu Hartikainen <hannu@hrtk.in>
+    Cc: stable <stable@vger.kernel.org>
+    Link: https://lore.kernel.org/r/20210622141454.337948-1-hannu@hrtk.in
+    Signed-off-by: Greg Kroah-Hartman <gregkh@linuxfoundation.org>

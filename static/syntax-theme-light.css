@@ -185,14 +185,14 @@ font-weight: bold;
 font-style: italic;
 }
 .z-markup.z-raw {
- background-color: #61676c;
+ background-color: #ddd;
 }
 .z-markup.z-raw.z-inline {
- background-color: #61676c;
+ background-color: #ddd;
 }
 .z-meta.z-separator {
  color: #abb0b6;
- background-color: #61676c;
+ background-color: #ddd;
 font-weight: bold;
 }
 .z-markup.z-quote {
@@ -216,7 +216,7 @@ font-style: italic;
 }
 .z-markup.z-table {
  color: #55b4d4;
- background-color: #61676c;
+ background-color: #ddd;
 }
 .z-text.z-html.z-markdown .z-markup.z-raw.z-inline {
  color: #ed9366;
@@ -226,11 +226,11 @@ font-style: italic;
 }
 .z-markup.z-raw.z-block.z-fenced.z-markdown {
  color: #61676c;
- background-color: #61676c;
+ background-color: #ddd;
 }
 .z-punctuation.z-definition.z-fenced.z-markdown, .z-variable.z-language.z-fenced.z-markdown {
  color: #abb0b6;
- background-color: #61676c;
+ background-color: #ddd;
 }
 .z-variable.z-language.z-fenced.z-markdown {
  color: #abb0b6;

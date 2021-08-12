@@ -37,8 +37,8 @@ tags = ["FLOSS"]
 1. [Highcharts](https://github.com/highcharts/highcharts/commits?author=dancek). Charting library. JavaScript.
 1. [i3status-rust](https://github.com/greshake/i3status-rust/commits?author=dancek). Status bar. Rust.
 1. [Leiningen](https://github.com/technomancy/leiningen/commits/master?author=dancek). Build tool. Clojure.
-1. [Linux](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=author&q=Hannu+Hartikainen). **The** operating system. C.
-1. [Neovim](https://github.com/neovim/neovim/commits/master?author=dancek). **The** text editor. C.
+1. **[Linux](@/floss/linux.md). The operating system. C.**
+1. [Neovim](https://github.com/neovim/neovim/commits/master?author=dancek). Text editor. C.
 1. [opendota-core](https://github.com/odota/core/commits?author=dancek). Game data platform. JavaScript.
 1. [Point Cloud Library](https://github.com/PointCloudLibrary/pcl/commit/e03532a23362e097fa286e4dda64d3425c6bc8bf). C++.
 1. [reitit](https://github.com/metosin/reitit/commits?author=dancek). Router library. Clojure/Script.
