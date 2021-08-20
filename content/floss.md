@@ -37,6 +37,7 @@ tags = ["FLOSS"]
 1. [Highcharts](https://github.com/highcharts/highcharts/commits?author=dancek). Charting library. JavaScript.
 1. [i3status-rust](https://github.com/greshake/i3status-rust/commits?author=dancek). Status bar. Rust.
 1. [Leiningen](https://github.com/technomancy/leiningen/commits/master?author=dancek). Build tool. Clojure.
+1. [Limine](https://github.com/limine-bootloader/limine/commits?author=dancek). Bootloader. C.
 1. **[Linux](@/floss/linux.md). The operating system. C.**
 1. [Neovim](https://github.com/neovim/neovim/commits/master?author=dancek). Text editor. C.
 1. [opendota-core](https://github.com/odota/core/commits?author=dancek). Game data platform. JavaScript.
