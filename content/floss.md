@@ -49,6 +49,7 @@ tags = ["FLOSS"]
 1. [tldr-lint](https://github.com/tldr-pages/tldr-lint/commits?author=dancek). Linter. Bison grammar + JS.
 1. [Ultra fast anagram generator](https://github.com/sliedes/ufag/commits?author=dancek). C++.
 1. [velo-backend](https://github.com/sjappig/velo-backend/commits?author=dancek). Statistics backend. Rust.
+1. [Xpra](https://github.com/Xpra-org/xpra/commits?author=dancek). "Screen for X". Python.
 1. [youtube-dl](https://github.com/ytdl-org/youtube-dl/commits?author=dancek). Video downloader. Python.
 1. [zola](https://github.com/getzola/zola/commits?author=dancek). Static site generator. Rust.
 1. [zsh-completions](https://github.com/zsh-users/zsh-completions/commits?author=dancek). Completion scripts. Zsh.
