@@ -59,6 +59,7 @@ tags = ["FLOSS"]
 1. [Big Five Johnson 120 IPIP-NEO-PI-R questions](https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r/commits?author=dancek). Text translations.
 1. [clj-pdf](https://github.com/clj-pdf/clj-pdf/commits?author=dancek). PDF generation library. Clojure.
 1. [CtrlC](https://github.com/Detegr/rust-ctrlc/commits?author=dancek). Signal handler library. Rust.
+1. [ClojureScript API documentation](https://github.com/cljs/api/commits?author=dancek). Official language API reference.
 1. [Homebrew Cask](https://github.com/Homebrew/homebrew-cask/commits?author=dancek). Package definitions. DSL.
 1. [Homebrew Core](https://github.com/Homebrew/homebrew-core/commits?author=dancek). Package definitions. DSL.
 1. [illum](https://github.com/jmesmon/illum/commits?author=dancek). Backlight manager. C.
