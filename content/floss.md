@@ -57,6 +57,7 @@ tags = ["FLOSS"]
 ### Non-functional changes (documentation, data etc.)
 
 1. [Big Five Johnson 120 IPIP-NEO-PI-R questions](https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r/commits?author=dancek). Text translations.
+1. [BQN](https://github.com/mlochbaum/BQN/commits?author=dancek). Programming language.
 1. [clj-pdf](https://github.com/clj-pdf/clj-pdf/commits?author=dancek). PDF generation library. Clojure.
 1. [CtrlC](https://github.com/Detegr/rust-ctrlc/commits?author=dancek). Signal handler library. Rust.
 1. [ClojureScript API documentation](https://github.com/cljs/api/commits?author=dancek). Official language API reference.
@@ -72,7 +73,7 @@ tags = ["FLOSS"]
 1. [tldr](https://github.com/tldr-pages/tldr/commits?author=dancek). Documentation pages.
 1. [Ultimate Hacking Keyboard firmware](https://github.com/UltimateHackingKeyboard/firmware/commits?author=dancek). C.
 1. [zsh-vim-mode](https://github.com/softmoth/zsh-vim-mode/commits?author=dancek). Zsh.
-1. [Zig](https://github.com/zig-lang/zig/commits?author=dancek). Programming language. Zig.
+1. [Zig](https://github.com/zig-lang/zig/commits?author=dancek). Programming language.
 
 ### Unmerged contributions
 
