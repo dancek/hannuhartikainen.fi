@@ -3,6 +3,7 @@ title = "Advent of Code 2021 in BQN"
 date = 2021-12-31
 tags = ["BQN"]
 +++
+{{ bqnfont() }}
 
 I just finished [Advent of Code 2021](https://adventofcode.com/2021). In [BQN](https://mlochbaum.github.io/BQN/). ([My solutions](https://github.com/dancek/bqn-advent2021).)
 
