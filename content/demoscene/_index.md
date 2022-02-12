@@ -4,6 +4,23 @@ title = "Demoscene"
 
 This is a placeholder page for my demoscene prods. I've submitted some for [LoveByte 2022](https://lovebyte.party/) and I'll include download links and perhaps some content here later.
 
+## ALMONDS IN A SNOWSTORM 128B
+
+A 128 byte fractal intro inspired by the snowy weather we have in Finland
+this time of the year.
+
+Glad I could fit both Mandelbrot and Julia with animation and reasonably
+nice colors. I learned a lot along the way, and this feels like my best
+sizecoding effort of the bunch I'm submitting for Lovebyte 2022.
+
+Thanks to everyone who contributed to the Sizecoding wiki! It's really easy
+to learn these days with information freely available. I'm standing on the
+shoulders of giants.
+
+Greets to all sizecoders!
+
+[almonds.zip](almonds.zip)
+
 ## HYPERBOLAE 64B
 
 ```asm
