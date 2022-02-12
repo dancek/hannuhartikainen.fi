@@ -4,6 +4,23 @@ title = "Demoscene"
 
 This is a placeholder page for my demoscene prods. I've submitted some for [LoveByte 2022](https://lovebyte.party/) and I'll include download links and perhaps some content here later.
 
+## HYPERBOLAE 64B
+
+```asm
+;; HYPERBOLAE 64B / hannu
+;
+; This is a difficult size category. I tried to find something interesting
+; with the FPU that fits, and this was the best I could do. It was really
+; difficult to get working on hardware because I had no idea what I was doing.
+; But after a lot of FPU register debugging it finally does work. Everywhere
+; I tested. It may not be the coolest demo, its graphical ideas might be few,
+; but oh boy did I put in a lot of work to get it done.
+;
+; Greets to all sizecoders!
+```
+
+[hyperbolae.zip](hyperbolae.zip)
+
 ## QUINE
 
 A 256 byte demo that prints its own source code.
