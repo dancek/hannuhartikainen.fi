@@ -2,7 +2,45 @@
 title = "Demoscene"
 +++
 
-This is a placeholder page for my demoscene prods. I've submitted some for [LoveByte 2022](https://lovebyte.party/) and I'll include download links and perhaps some content here later.
+This is a placeholder page for my demoscene prods. I've submitted some for [LoveByte 2022](https://lovebyte.party/) and I'm adding download links as we go. There may be more content later.
+
+## RAINBOW DASH 8B
+
+[rbd-8b.zip](rbd-8b.zip)
+
+## OLUMPIC SWIM 16B
+
+[olumpi16.zip](olumpi16.zip)
+
+## HITHAEGLIR 32B
+
+I was hoping to enter all the compos/showcases in Lovebyte 2022 from 8 to 256
+bytes, but I had a really hard time coming up with anything reasonable in 32
+bytes. Then I looked at some existing 32 byte intros and dissected some that I
+liked.
+
+This intro was strongly inspired and basically based on `matisse` by
+orbitaldecay, published in 2010. Kudos for the technique! I just found another
+way to use it and get different visuals. So huge thanks to orbitaldecay!
+
+[hithaeglir.zip](hithaeglir.zip)
+
+## HYPERBOLAE 64B
+
+```asm
+;; HYPERBOLAE 64B / hannu
+;
+; This is a difficult size category. I tried to find something interesting
+; with the FPU that fits, and this was the best I could do. It was really
+; difficult to get working on hardware because I had no idea what I was doing.
+; But after a lot of FPU register debugging it finally does work. Everywhere
+; I tested. It may not be the coolest demo, its graphical ideas might be few,
+; but oh boy did I put in a lot of work to get it done.
+;
+; Greets to all sizecoders!
+```
+
+[hyperbolae.zip](hyperbolae.zip)
 
 ## ALMONDS IN A SNOWSTORM 128B
 
@@ -21,22 +59,9 @@ Greets to all sizecoders!
 
 [almonds.zip](almonds.zip)
 
-## HYPERBOLAE 64B
+## RIGID ROENTGEN 256B
 
-```asm
-;; HYPERBOLAE 64B / hannu
-;
-; This is a difficult size category. I tried to find something interesting
-; with the FPU that fits, and this was the best I could do. It was really
-; difficult to get working on hardware because I had no idea what I was doing.
-; But after a lot of FPU register debugging it finally does work. Everywhere
-; I tested. It may not be the coolest demo, its graphical ideas might be few,
-; but oh boy did I put in a lot of work to get it done.
-;
-; Greets to all sizecoders!
-```
-
-[hyperbolae.zip](hyperbolae.zip)
+[rigidroentgen.zip](rigidroentgen.zip)
 
 ## QUINE
 
