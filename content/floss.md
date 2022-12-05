@@ -26,6 +26,7 @@ tags = ["FLOSS"]
 1. [Bitwarden CLI](https://github.com/bitwarden/cli/commits?author=dancek). CLI for password store. Node.js.
 1. [Bombadillo](https://tildegit.org/sloum/bombadillo/commits/branch/master/search?q=author%3Ahannu.hartikainen). Non-web browser. Go.
 1. [Bootstrap](https://github.com/twbs/bootstrap/commits?author=dancek). CSS framework. LESS.
+1. [chroma](https://github.com/alecthomas/chroma/commits?author=dancek). Syntax highlighting library. Go.
 1. [clj-kondo](https://github.com/clj-kondo/clj-kondo/commits?author=dancek). Linter. Clojure.
 1. [Code::Stats](https://gitlab.com/code-stats/code-stats/-/commits/master?author=Hannu%20Hartikainen). Keystroke tracking service. Elixir.
 1. [Drawbridge](https://github.com/nrepl/drawbridge/commits?author=dancek). HTTP transport for nREPL. Clojure.
