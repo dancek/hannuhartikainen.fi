@@ -42,6 +42,7 @@ tags = ["FLOSS"]
 1. **[Linux](@/floss/linux.md). The operating system. C.**
 1. [Neovim](https://github.com/neovim/neovim/commits/master?author=dancek). Text editor. C.
 1. [Notmuch](https://git.notmuchmail.org/git?p=notmuch&a=search&h=HEAD&st=author&s=Hannu+Hartikainen). Email system. C.
+1. [nvim-bqn](https://sr.ht/~detegr/nvim-bqn/). BQN plugin for Neovim. Lua.
 1. [opendota-core](https://github.com/odota/core/commits?author=dancek). Game data platform. JavaScript.
 1. [plenary.nvim](https://github.com/nvim-lua/plenary.nvim/commits?author=dancek). Neovim "standard library". Lua.
 1. [Point Cloud Library](https://github.com/PointCloudLibrary/pcl/commit/e03532a23362e097fa286e4dda64d3425c6bc8bf). C++.
