@@ -6,4 +6,9 @@ build:
 upload:
 	ansible-playbook ../infra/upload.yml
 
-.PHONY: all build upload
+
+KDIR ?= ~/dev/linux
+linux-log:
+	git -C ${KDIR} log --grep="Hannu Hartikainen" > data/linux.log
+
+.PHONY: all build upload linux-log
