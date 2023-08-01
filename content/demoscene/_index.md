@@ -2,17 +2,49 @@
 title = "Demoscene"
 +++
 
-This is a placeholder page for my demoscene prods. I've submitted some for [LoveByte 2022](https://lovebyte.party/) and I'm adding download links as we go. There may be more content later.
+This is a placeholder page for my demoscene prods. There may be more content later.
 
-## RAINBOW DASH 8B
+My prods elsewhere on the web:
+- [Demozoo](https://demozoo.org/sceners/130104/)
+- [Pouet](https://www.pouet.net/user.php?who=105070)
+- [Nano Gems](https://nanogems.demozoo.org/)
+
+## LoveByte 2023
+
+### Synthwave Camouflage (8 bytes, 8088 / PC-DOS)
+
+[synthwave-camouflage.zip](synthwave-camouflage.zip)
+
+Featured in [Nano Gems](https://nanogems.demozoo.org/) <3
+
+### col0fall (16 bytes, C64)
+
+[col0fall.zip](col0fall.zip)
+
+### Transition effects (16 bytes, MS-DOS)
+
+[transition-effects.zip](transition-effects.zip)
+
+### lustrous (64 bytes, MS-DOS)
+
+[lustrous.zip](lustrous.zip)
+
+## LoveByte Turbo (in Evoke 2022)
+
+### net growth (16 bytes, MS-DOS)
+[net-growth.zip](net-growth.zip)
+
+## LoveByte 2022
+
+### RAINBOW DASH 8B
 
 [rbd-8b.zip](rbd-8b.zip)
 
-## OLUMPIC SWIM 16B
+### OLUMPIC SWIM 16B
 
 [olumpi16.zip](olumpi16.zip)
 
-## HITHAEGLIR 32B
+### HITHAEGLIR 32B
 
 I was hoping to enter all the compos/showcases in Lovebyte 2022 from 8 to 256
 bytes, but I had a really hard time coming up with anything reasonable in 32
@@ -25,7 +57,7 @@ way to use it and get different visuals. So huge thanks to orbitaldecay!
 
 [hithaeglir.zip](hithaeglir.zip)
 
-## HYPERBOLAE 64B
+### HYPERBOLAE 64B
 
 ```asm
 ;; HYPERBOLAE 64B / hannu
@@ -42,7 +74,7 @@ way to use it and get different visuals. So huge thanks to orbitaldecay!
 
 [hyperbolae.zip](hyperbolae.zip)
 
-## ALMONDS IN A SNOWSTORM 128B
+### ALMONDS IN A SNOWSTORM 128B
 
 A 128 byte fractal intro inspired by the snowy weather we have in Finland
 this time of the year.
@@ -59,11 +91,11 @@ Greets to all sizecoders!
 
 [almonds.zip](almonds.zip)
 
-## RIGID ROENTGEN 256B
+### RIGID ROENTGEN 256B
 
 [rigidroentgen.zip](rigidroentgen.zip)
 
-## QUINE
+### QUINE
 
 A 256 byte demo that prints its own source code.
 
