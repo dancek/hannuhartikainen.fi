@@ -40,6 +40,7 @@ tags = ["FLOSS"]
 1. [Leiningen](https://github.com/technomancy/leiningen/commits/master?author=dancek). Build tool. Clojure.
 1. [Limine](https://github.com/limine-bootloader/limine/commits?author=dancek). Bootloader. C.
 1. **[Linux](@/floss/linux.md). The operating system. C.**
+1. [mkbot](https://git.sr.ht/~detegr/mkbot). Slack bot maker. Terraform.
 1. [Neovim](https://github.com/neovim/neovim/commits/master?author=dancek). Text editor. C.
 1. [Notmuch](https://git.notmuchmail.org/git?p=notmuch&a=search&h=HEAD&st=author&s=Hannu+Hartikainen). Email system. C.
 1. [nvim-bqn](https://sr.ht/~detegr/nvim-bqn/). BQN plugin for Neovim. Lua.
@@ -61,6 +62,7 @@ tags = ["FLOSS"]
 
 1. [Big Five Johnson 120 IPIP-NEO-PI-R questions](https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r/commits?author=dancek). Text translations.
 1. [BQN](https://github.com/mlochbaum/BQN/commits?author=dancek). Programming language.
+1. [CBQN](https://github.com/dzaima/CBQN/commits/develop?author=dancek). Main BQN implementation. C.
 1. [clj-pdf](https://github.com/clj-pdf/clj-pdf/commits?author=dancek). PDF generation library. Clojure.
 1. [CtrlC](https://github.com/Detegr/rust-ctrlc/commits?author=dancek). Signal handler library. Rust.
 1. [ClojureScript API documentation](https://github.com/cljs/api/commits?author=dancek). Official language API reference.
