@@ -38,6 +38,7 @@ tags = ["FLOSS"]
 1. [Highcharts](https://github.com/highcharts/highcharts/commits?author=dancek). Charting library. JavaScript.
 1. [i3status-rust](https://github.com/greshake/i3status-rust/commits?author=dancek). Status bar. Rust.
 1. [Leiningen](https://github.com/technomancy/leiningen/commits/master?author=dancek). Build tool. Clojure.
+1. [Lexica](https://github.com/lexica/lexica/commits?author=dancek). Word game. Android.
 1. [Limine](https://github.com/limine-bootloader/limine/commits?author=dancek). Bootloader. C.
 1. **[Linux](@/floss/linux.md). The operating system. C.**
 1. [mkbot](https://git.sr.ht/~detegr/mkbot). Slack bot maker. Terraform.
@@ -72,6 +73,7 @@ tags = ["FLOSS"]
 1. [gameboy-rs](https://github.com/Detegr/gameboy-rs/commits?author=dancek). Gameboy emulator. Rust.
 1. [Linux Kernel Module Programming Guide](https://github.com/sysprog21/lkmpg/commits?author=dancek). Book. TeX.
 1. [MariaDB](https://github.com/MariaDB/server/commits?author=dancek). Database server. C.
+1. [next.jdbc](https://github.com/seancorfield/next-jdbc/commits?author=dancek). Database library. Clojure.
 1. [nixos-hardware](https://github.com/NixOS/nixos-hardware/commits?author=dancek). Hardware profiles. Nix.
 1. [Nixpkgs](https://github.com/NixOS/nixpkgs/commits?author=dancek). Package definitions. Nix.
 1. [Phoenix](https://github.com/phoenixframework/phoenix/commits?author=dancek). Web framework. Elixir.
