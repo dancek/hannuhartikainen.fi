@@ -15,6 +15,7 @@ lang = "fi"
 
 Jos haluat kuulla uusista tehtävistä, liity sähköpostilistalle lähettämällä viesti osoitteeseen [~hannu/piilosanat+subscribe@lists.sr.ht](mailto:~hannu/piilosanat+subscribe@lists.sr.ht).
 
+- [Piilosana 2023-11-04](@/piilosanat/ratkotaan/8.md)
 - [Piilosana 2021-01-04](@/piilosanat/ratkotaan/7.md)
 - [Piilosana 2020-09-10](@/piilosanat/ratkotaan/6.md)
 - [Piilosana 2020-08-25](@/piilosanat/ratkotaan/5.md)
