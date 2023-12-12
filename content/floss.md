@@ -36,6 +36,7 @@ tags = ["FLOSS"]
 1. [go-gemini](https://github.com/makeworld-the-better-one/go-gemini/commits?author=dancek). Gemini library. Go.
 1. [GUS (geminispace.info)](https://src.clttr.info/rwa/geminispace.info/commits/branch/master/search?q=author%3Ahannu%40hrtk.in). Gemini search engine. Python.
 1. [Highcharts](https://github.com/highcharts/highcharts/commits?author=dancek). Charting library. JavaScript.
+1. [HoneySQL](https://github.com/seancorfield/honeysql/commits?author=dancek). Data representation of SQL. Clojure.
 1. [i3status-rust](https://github.com/greshake/i3status-rust/commits?author=dancek). Status bar. Rust.
 1. [Leiningen](https://github.com/technomancy/leiningen/commits/master?author=dancek). Build tool. Clojure.
 1. [Lexica](https://github.com/lexica/lexica/commits?author=dancek). Word game. Android.
@@ -46,14 +47,17 @@ tags = ["FLOSS"]
 1. [Notmuch](https://git.notmuchmail.org/git?p=notmuch&a=search&h=HEAD&st=author&s=Hannu+Hartikainen). Email system. C.
 1. [nvim-bqn](https://sr.ht/~detegr/nvim-bqn/). BQN plugin for Neovim. Lua.
 1. [opendota-core](https://github.com/odota/core/commits?author=dancek). Game data platform. JavaScript.
+1. [OpenRBRVR](https://github.com/Detegr/openRBRVR/commits?author=dancek). OpenVR mod for an old game. C++.
 1. [plenary.nvim](https://github.com/nvim-lua/plenary.nvim/commits?author=dancek). Neovim "standard library". Lua.
 1. [Point Cloud Library](https://github.com/PointCloudLibrary/pcl/commit/e03532a23362e097fa286e4dda64d3425c6bc8bf). C++.
 1. [reitit](https://github.com/metosin/reitit/commits?author=dancek). Router library. Clojure/Script.
 1. [sf-pwgen](https://github.com/anders/pwgen/commits?author=dancek). Password generator. Objective-C.
 1. [Slimmage](https://github.com/imazen/slimmage/commits?author=dancek). Responsive image library. JavaScript.
+1. [Tapestry](https://github.com/teknql/tapestry/commits?author=dancek). Concurrency primitive library. Clojure.
 1. [tldr-lint](https://github.com/tldr-pages/tldr-lint/commits?author=dancek). Linter. Bison grammar + JS.
 1. [Ultra fast anagram generator](https://github.com/sliedes/ufag/commits?author=dancek). C++.
 1. [velo-backend](https://github.com/sjappig/velo-backend/commits?author=dancek). Statistics backend. Rust.
+1. [way-displays](https://github.com/alex-courtis/way-displays/commits?author=dancek). Display layout manager for Wayland. C.
 1. [Xpra](https://github.com/Xpra-org/xpra/commits?author=dancek). "Screen for X". Python.
 1. [youtube-dl](https://github.com/ytdl-org/youtube-dl/commits?author=dancek). Video downloader. Python.
 1. [zola](https://github.com/getzola/zola/commits?author=dancek). Static site generator. Rust.
