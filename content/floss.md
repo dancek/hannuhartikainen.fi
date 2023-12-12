@@ -3,20 +3,6 @@ title = "FLOSS"
 tags = ["FLOSS"]
 +++
 
-## Some of my own projects
-
-- Code::Stats plugins
-  - [code-stats-vim](https://gitlab.com/code-stats/code-stats-vim). VimL + Python.
-  - [code-stats-zsh](https://gitlab.com/code-stats/code-stats-zsh). Zsh.
-- Gemini services
-  - [twinwiki](https://sr.ht/~dancek/twinwiki/). Wiki engine. Rust.
-  - [ansimirror](https://github.com/dancek/ansimirror). ANSI art viewer. Python.
-  - [asciinema](https://github.com/dancek/gemini-asciinema). Asciinema viewer. Python.
-- Crossword tools
-  - [ristilaatija](https://github.com/dancek/ristilaatija). Crossword maker for Finnish (forked). JavaScript.
-  - [clossword](https://github.com/dancek/clossword). Crossword library, used to implement a solving UI. ClojureScript.
-  - [anagwasm](https://github.com/dancek/anagwasm). Anagram tool for browser (forked). Rust.
-
 ## My commits to other people's FLOSS projects
 
 ### Functional changes (features, bugfixes etc.)
@@ -91,3 +77,17 @@ tags = ["FLOSS"]
 I've also tried to contribute to a handful of other repositories.
 - [my open PRs on Github](https://github.com/search?q=is%3Aopen+is%3Apr+author%3Adancek)
 - [my closed, unmerged PRs on Github](https://github.com/search?q=is%3Apr+author%3Adancek+is%3Aclosed+is%3Aunmerged)
+
+## Some of my own projects
+
+- Crossword tools
+  - [ristilaatija](https://github.com/dancek/ristilaatija). Crossword maker for Finnish (forked). JavaScript.
+  - [clossword](https://github.com/dancek/clossword). Crossword library, used to implement a solving UI. ClojureScript.
+  - [anagwasm](https://github.com/dancek/anagwasm). Anagram tool for browser (forked). Rust.
+- Gemini services
+  - [twinwiki](https://sr.ht/~dancek/twinwiki/). Wiki engine. Rust.
+  - [ansimirror](https://github.com/dancek/ansimirror). ANSI art viewer. Python.
+  - [asciinema](https://github.com/dancek/gemini-asciinema). Asciinema viewer. Python.
+- Code::Stats plugins
+  - [code-stats-vim](https://gitlab.com/code-stats/code-stats-vim). VimL + Python.
+  - [code-stats-zsh](https://gitlab.com/code-stats/code-stats-zsh). Zsh.
