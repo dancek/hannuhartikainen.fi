@@ -52,6 +52,7 @@ tags = ["FLOSS"]
 ### Non-functional changes (documentation, data etc.)
 
 1. [Big Five Johnson 120 IPIP-NEO-PI-R questions](https://github.com/Alheimsins/b5-johnson-120-ipip-neo-pi-r/commits?author=dancek). Text translations.
+1. [BlurHash](https://github.com/woltapp/blurhash/commits?author=dancek). Image placeholder representation. ([new implementation](https://github.com/dancek/blurhash-bqn))
 1. [BQN](https://github.com/mlochbaum/BQN/commits?author=dancek). Programming language.
 1. [CBQN](https://github.com/dzaima/CBQN/commits/develop?author=dancek). Main BQN implementation. C.
 1. [clj-pdf](https://github.com/clj-pdf/clj-pdf/commits?author=dancek). PDF generation library. Clojure.
