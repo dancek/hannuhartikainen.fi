@@ -40,6 +40,7 @@ tags = ["FLOSS"]
 1. [sf-pwgen](https://github.com/anders/pwgen/commits?author=dancek). Password generator. Objective-C.
 1. [Slimmage](https://github.com/imazen/slimmage/commits?author=dancek). Responsive image library. JavaScript.
 1. [Tapestry](https://github.com/teknql/tapestry/commits?author=dancek). Concurrency primitive library. Clojure.
+1. [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim/commits?author=dancek). Fuzzy finder for Neovim. Lua.
 1. [tldr-lint](https://github.com/tldr-pages/tldr-lint/commits?author=dancek). Linter. Bison grammar + JS.
 1. [Ultra fast anagram generator](https://github.com/sliedes/ufag/commits?author=dancek). C++.
 1. [velo-backend](https://github.com/sjappig/velo-backend/commits?author=dancek). Statistics backend. Rust.
