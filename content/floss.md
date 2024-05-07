@@ -70,6 +70,7 @@ tags = ["FLOSS"]
 1. [nixos-hardware](https://github.com/NixOS/nixos-hardware/commits?author=dancek). Hardware profiles. Nix.
 1. [Nixpkgs](https://github.com/NixOS/nixpkgs/commits?author=dancek). Package definitions. Nix.
 1. [Phoenix](https://github.com/phoenixframework/phoenix/commits?author=dancek). Web framework. Elixir.
+1. [Plexcalibur/sizecoding-tools](https://github.com/Plexcalibur/sizecoding-tools/commits?author=dancek). x86 initial state investigations.
 1. [tldr](https://github.com/tldr-pages/tldr/commits?author=dancek). Documentation pages.
 1. [Ultimate Hacking Keyboard firmware](https://github.com/UltimateHackingKeyboard/firmware/commits?author=dancek). C.
 1. [zsh-vim-mode](https://github.com/softmoth/zsh-vim-mode/commits?author=dancek). Zsh.
