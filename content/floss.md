@@ -7,6 +7,7 @@ tags = ["FLOSS"]
 
 ### Functional changes (features, bugfixes etc.)
 
+1. [AIO Launcher scripts](https://github.com/zobnin/aiolauncher_scripts/commits?author=dancek). Extensions for an Android launcher. Lua.
 1. [AV-98](https://tildegit.org/solderpunk/AV-98/commits/branch/master/search?q=author%3Ahannu.hartikainen). Gemini client. Python.
 1. [BayesPy](https://github.com/bayespy/bayespy/commits?author=dancek). Library for Bayesian inference. Python.
 1. [Bitwarden CLI](https://github.com/bitwarden/cli/commits?author=dancek). CLI for password store. Node.js.
